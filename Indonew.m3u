@@ -864,6 +864,85 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/MTV90sHD/mpd/MTV90sHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=fd2992f9397c491497015b57cd1c8747:1dcd4c7b242b479fd9f1899120fd1f2f
 #EXTINF:-1 tvg-id="MTVLive.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/948/49948-SNAPSHOT-l.png" group-title="Music",MTV Live HD
 https://atemecdnbalancer-voe.sysln.id/live/eds/MTVLiveHD/mpd/MTVLiveHD.mpd
+#@###@@@@@@@@@@@##########@@#####@@@@@@@@@@@@@@@@@####@@@@@##@@@@@@@@@@@@
+
+#EXTINF:-1 xui-id="25519" tvg-id="" tvg-name="[FR*] Automoto" tvg-logo="http://streamsland.com:8080/images/5583ca2b913ffa4f94851234d79b6723.png" group-title="France Sport",[FR*] Automoto
+http://streamsland.com:8080/play/za7EfOQAehL10MnRqcZvC3-2l6bmH51swmDkGGj7teGcwNmPvsIC26neHIfj8zte
+#EXTINF:-1 xui-id="25508" tvg-id="beinsports1.fr" tvg-name="[FR*] Bein Sports 1 HD" tvg-logo="http://streamsland.com:8080/images/643776191832652a8c8561810f37f60e.png" group-title="France Sport",[FR*] Bein Sports 1 HD
+http://streamsland.com:8080/play/za7EfOQAehL10MnRqcZvC3-2l6bmH51swmDkGGj7teHYa_Em5rJJOnFK19OqxTb1
+#EXTINF:-1 xui-id="25509" tvg-id="" tvg-name="[FR*] Bein Sports 2 HD" tvg-logo="http://streamsland.com:8080/images/643776191832652a8c8561810f37f60e.png" group-title="France Sport",[FR*] Bein Sports 2 HD
+http://streamsland.com:8080/play/za7EfOQAehL10MnRqcZvC3-2l6bmH51swmDkGGj7teFvIdLAZVZmUZMLIP4W4uVC
+#EXTINF:-1 xui-id="25510" tvg-id="" tvg-name="[FR*] Bein Sports 3 HD" tvg-logo="http://streamsland.com:8080/images/643776191832652a8c8561810f37f60e.png" group-title="France Sport",[FR*] Bein Sports 3 HD
+http://streamsland.com:8080/play/za7EfOQAehL10MnRqcZvC3-2l6bmH51swmDkGGj7teGQLg5Z5fX33K2InCQltZSr
+#EXTINF:-1 xui-id="25511" tvg-id="" tvg-name="[FR*] Bein Sports Max 04" tvg-logo="http://streamsland.com:8080/images/df19d7f9e25a8b6151b6912490973449.png" group-title="France Sport",[FR*] Bein Sports Max 04
+http://streamsland.com:8080/play/za7EfOQAehL10MnRqcZvC3-2l6bmH51swmDkGGj7teGHlclVj5MS7d9ozZRgqN4F
+#EXTINF:-1 xui-id="25512" tvg-id="" tvg-name="[FR*] Bein Sports Max 05" tvg-logo="http://streamsland.com:8080/images/df19d7f9e25a8b6151b6912490973449.png" group-title="France Sport",[FR*] Bein Sports Max 05
+http://streamsland.com:8080/play/za7EfOQAehL10MnRqcZvC3-2l6bmH51swmDkGGj7teEkx0sMzkTtm23heH6r8zRT
+#EXTINF:-1 xui-id="25513" tvg-id="" tvg-name="[FR*] Bein Sports Max 06" tvg-logo="http://streamsland.com:8080/images/df19d7f9e25a8b6151b6912490973449.png" group-title="France Sport",[FR*] Bein Sports Max 06
+http://streamsland.com:8080/play/za7EfOQAehL10MnRqcZvC3-2l6bmH51swmDkGGj7teEFEojxK9_4-JwmT2kJSELI
+#EXTINF:-1 xui-id="25514" tvg-id="" tvg-name="[FR*] Bein Sports Max 07" tvg-logo="http://streamsland.com:8080/images/df19d7f9e25a8b6151b6912490973449.png" group-title="France Sport",[FR*] Bein Sports Max 07
+http://streamsland.com:8080/play/za7EfOQAehL10MnRqcZvC3-2l6bmH51swmDkGGj7teGKQeIJrQLfaH12z-MxmMbo
+#EXTINF:-1 xui-id="25515" tvg-id="" tvg-name="[FR*] Bein Sports Max 08" tvg-logo="http://streamsland.com:8080/images/df19d7f9e25a8b6151b6912490973449.png" group-title="France Sport",[FR*] Bein Sports Max 08
+http://streamsland.com:8080/play/za7EfOQAehL10MnRqcZvC3-2l6bmH51swmDkGGj7teEJ6YmJwfHCjVM3RC3wPFMz
+#EXTINF:-1 xui-id="25516" tvg-id="" tvg-name="[FR*] Bein Sports Max 09" tvg-logo="http://streamsland.com:8080/images/8cGRMdqqgj4AnMhY1l2B1j54tnTVHgvU9PVXlnRPGgm-WUBc5W2uqTHMrfhDmqNK8WMS4YXhDZaF4M53upES4I5AQkAHlWkREGzl9X8efw0.png" group-title="France Sport",[FR*] Bein Sports Max 09
+http://streamsland.com:8080/play/za7EfOQAehL10MnRqcZvC3-2l6bmH51swmDkGGj7teFol9_YhGBTeW9Ajtvjed7q
+#EXTINF:-1 xui-id="25517" tvg-id="" tvg-name="[FR*] Bein Sports Max 10" tvg-logo="http://streamsland.com:8080/images/8cGRMdqqgj4AnMhY1l2B1j54tnTVHgvU9PVXlnRPGgm-WUBc5W2uqTHMrfhDmqNK8WMS4YXhDZaF4M53upES4I5AQkAHlWkREGzl9X8efw0.png" group-title="France Sport",[FR*] Bein Sports Max 10
+http://streamsland.com:8080/play/za7EfOQAehL10MnRqcZvC3-2l6bmH51swmDkGGj7teGOx7q0KgN64bOSJuXhG1NX
+#EXTINF:-1 xui-id="368763" tvg-id="" tvg-name="[FR*] CANAL+ LIVE 1" tvg-logo="http://streamsland.com:8080/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTE4TENsv4CiBAaq0WjL5NV_hA3Sr1X0hDqFrDHlOG_N-D1P1rxVWx-SHm9uZThyA8.png" group-title="France Sport",[FR*] CANAL+ LIVE 1
+http://streamsland.com:8080/play/za7EfOQAehL10MnRqcZvCzMnsvTSFpyp3UGkFUSRWqdt0rrV85l9878f9dRQQ4Ba
+#EXTINF:-1 xui-id="368764" tvg-id="" tvg-name="[FR*] CANAL+ LIVE 2" tvg-logo="http://streamsland.com:8080/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTE4TENsv4CiBAaq0WjL5NV_hA3Sr1X0hDqFrDHlOG_N-D1P1rxVWx-SHm9uZThyA8.png" group-title="France Sport",[FR*] CANAL+ LIVE 2
+http://streamsland.com:8080/play/za7EfOQAehL10MnRqcZvCzMnsvTSFpyp3UGkFUSRWqd-JCV7xe95HbVOmU0ZMA6E
+#EXTINF:-1 xui-id="368765" tvg-id="" tvg-name="[FR*] CANAL+ LIVE 3" tvg-logo="http://streamsland.com:8080/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTE4TENsv4CiBAaq0WjL5NV_hA3Sr1X0hDqFrDHlOG_N-D1P1rxVWx-SHm9uZThyA8.png" group-title="France Sport",[FR*] CANAL+ LIVE 3
+http://streamsland.com:8080/play/za7EfOQAehL10MnRqcZvCzMnsvTSFpyp3UGkFUSRWqdTTxMNHLZ8TGCknxWT-Yep
+#EXTINF:-1 xui-id="368766" tvg-id="" tvg-name="[FR*] CANAL+ LIVE 4" tvg-logo="http://streamsland.com:8080/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTE4TENsv4CiBAaq0WjL5NV_hA3Sr1X0hDqFrDHlOG_N-D1P1rxVWx-SHm9uZThyA8.png" group-title="France Sport",[FR*] CANAL+ LIVE 4
+http://streamsland.com:8080/play/za7EfOQAehL10MnRqcZvCzMnsvTSFpyp3UGkFUSRWqeqxpk3KXa2YZt_2TqeDVYi
+#EXTINF:-1 xui-id="368767" tvg-id="" tvg-name="[FR*] CANAL+ LIVE 5" tvg-logo="http://streamsland.com:8080/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTE4TENsv4CiBAaq0WjL5NV_hA3Sr1X0hDqFrDHlOG_N-D1P1rxVWx-SHm9uZThyA8.png" group-title="France Sport",[FR*] CANAL+ LIVE 5
+http://streamsland.com:8080/play/za7EfOQAehL10MnRqcZvCzMnsvTSFpyp3UGkFUSRWqfOnAnNVDeKd8ezK5HHycIO
+#EXTINF:-1 xui-id="25500" tvg-id="canalplussport.fr" tvg-name="[FR*] Canal+ Sport" tvg-logo="http://streamsland.com:8080/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTE4TENsv4CiBAaq0WjL5NVLF_Y3CI3yt83oxQCYkFXsA.png" group-title="France Sport",[FR*] Canal+ Sport
+http://streamsland.com:8080/play/za7EfOQAehL10MnRqcZvC3-2l6bmH51swmDkGGj7teGndnKn9lHrztDRL1dcAzuL
+#EXTINF:-1 xui-id="45584" tvg-id="" tvg-name="[FR*] CANAL+ Sport 1" tvg-logo="http://streamsland.com:8080/images/F3mpd4zkMAdF8P-LIlNWeKfN0Q_RoZ1PRd8RNEHJPktlFVbaSpgQrf2TV4U6XpjX4wgglNC7hp7TFMXwwhB36LFacL2ycxwz6vXipUrL590K5PZpZnXVteVo9LH4HjwLss2Jzjtb32LjXjG01pC1lw.png" group-title="France Sport",[FR*] CANAL+ Sport 1
+http://streamsland.com:8080/play/za7EfOQAehL10MnRqcZvC4Fex1uoa4geXtkREJJZaQpK_GSp7W1Z3RyQ1xijgqEu
+#EXTINF:-1 xui-id="331439" tvg-id="" tvg-name="[FR*] CANAL+ SPORT 1 HD" tvg-logo="http://streamsland.com:8080/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTE4TENsv4CiBAaq0WjL5NVLF_Y3CI3yt83oxQCYkFXsA.png" group-title="France Sport",[FR*] CANAL+ SPORT 1 HD
+http://streamsland.com:8080/play/za7EfOQAehL10MnRqcZvCzMnsvTSFpyp3UGkFUSRWqflzB7imk_Gf67XekeFpu1J
+#EXTINF:-1 xui-id="45585" tvg-id="" tvg-name="[FR*] CANAL+ Sport 2" tvg-logo="http://streamsland.com:8080/images/F3mpd4zkMAdF8P-LIlNWeKfN0Q_RoZ1PRd8RNEHJPktlFVbaSpgQrf2TV4U6XpjX4wgglNC7hp7TFMXwwhB36LFacL2ycxwz6vXipUrL590K5PZpZnXVteVo9LH4HjwLss2Jzjtb32LjXjG01pC1lw.png" group-title="France Sport",[FR*] CANAL+ Sport 2
+http://streamsland.com:8080/play/za7EfOQAehL10MnRqcZvC4Fex1uoa4geXtkREJJZaQr3rXWJQHcTprs_YQuzaylE
+#EXTINF:-1 xui-id="331440" tvg-id="" tvg-name="[FR*] CANAL+ SPORT 2 HD" tvg-logo="http://streamsland.com:8080/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTE4TENsv4CiBAaq0WjL5NVLF_Y3CI3yt83oxQCYkFXsA.png" group-title="France Sport",[FR*] CANAL+ SPORT 2 HD
+http://streamsland.com:8080/play/za7EfOQAehL10MnRqcZvCzMnsvTSFpyp3UGkFUSRWqey1sooTsckJl4-3dDnDWNU
+#EXTINF:-1 xui-id="45586" tvg-id="" tvg-name="[FR*] CANAL+ Sport 3" tvg-logo="http://streamsland.com:8080/images/F3mpd4zkMAdF8P-LIlNWeKfN0Q_RoZ1PRd8RNEHJPktlFVbaSpgQrf2TV4U6XpjX4wgglNC7hp7TFMXwwhB36LFacL2ycxwz6vXipUrL590K5PZpZnXVteVo9LH4HjwLss2Jzjtb32LjXjG01pC1lw.png" group-title="France Sport",[FR*] CANAL+ Sport 3
+http://streamsland.com:8080/play/za7EfOQAehL10MnRqcZvC4Fex1uoa4geXtkREJJZaQo2qyXA33rHQ_VJuleoXpHh
+#EXTINF:-1 xui-id="331441" tvg-id="" tvg-name="[FR*] CANAL+ SPORT 3 HD" tvg-logo="http://streamsland.com:8080/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTE4TENsv4CiBAaq0WjL5NVLF_Y3CI3yt83oxQCYkFXsA.png" group-title="France Sport",[FR*] CANAL+ SPORT 3 HD
+http://streamsland.com:8080/play/za7EfOQAehL10MnRqcZvCzMnsvTSFpyp3UGkFUSRWqdUn3SlHcyVeqDFWhLXtFTK
+#EXTINF:-1 xui-id="235443" tvg-id="" tvg-name="[FR*] CANAL+ SPORT 360" tvg-logo="http://streamsland.com:8080/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTE4TENsv4CiBAaq0WjL5NVLF_Y3CI3yt83oxQCYkFXsA.png" group-title="France Sport",[FR*] CANAL+ SPORT 360
+http://streamsland.com:8080/play/za7EfOQAehL10MnRqcZvC3-2l6bmH51swmDkGGj7teENYolcgNanAT6O-PVu4vRH
+#EXTINF:-1 xui-id="331442" tvg-id="" tvg-name="[FR*] CANAL+ SPORT 4 HD" tvg-logo="http://streamsland.com:8080/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTE4TENsv4CiBAaq0WjL5NVLF_Y3CI3yt83oxQCYkFXsA.png" group-title="France Sport",[FR*] CANAL+ SPORT 4 HD
+http://streamsland.com:8080/play/za7EfOQAehL10MnRqcZvCzMnsvTSFpyp3UGkFUSRWqedWmNGgslPn5J28-TXwQfu
+#EXTINF:-1 xui-id="331443" tvg-id="" tvg-name="[FR*] CANAL+ SPORT 5 HD" tvg-logo="http://streamsland.com:8080/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTE4TENsv4CiBAaq0WjL5NVLF_Y3CI3yt83oxQCYkFXsA.png" group-title="France Sport",[FR*] CANAL+ SPORT 5 HD
+http://streamsland.com:8080/play/za7EfOQAehL10MnRqcZvCzMnsvTSFpyp3UGkFUSRWqe3_R4UVvMQer5Y3ScmRi_Q
+#EXTINF:-1 xui-id="368673" tvg-id="" tvg-name="[FR*] Dazn 1" tvg-logo="http://streamsland.com:8080/images/Bp-vRtZEje6kFpdMZzWxZ7pm07j6LNDEEvWbJVBp2o3tFragNGAHbTFNHN6fV7Eb2ZnRgafovTCC3XpIpC-6OrPB3MSF1duOaYtMrckPm7Q.png" group-title="Dazn Sport دازن",[FR*] Dazn 1
+http://streamsland.com:8080/play/za7EfOQAehL10MnRqcZvCzMnsvTSFpyp3UGkFUSRWqfG15ohYFYu1TV08WMx0lca
+#EXTINF:-1 xui-id="368674" tvg-id="" tvg-name="[FR*] Dazn 2" tvg-logo="http://streamsland.com:8080/images/Bp-vRtZEje6kFpdMZzWxZ7pm07j6LNDEEvWbJVBp2o3tFragNGAHbTFNHN6fV7Eb2ZnRgafovTCC3XpIpC-6OrPB3MSF1duOaYtMrckPm7Q.png" group-title="Dazn Sport دازن",[FR*] Dazn 2
+http://streamsland.com:8080/play/za7EfOQAehL10MnRqcZvCzMnsvTSFpyp3UGkFUSRWqeGe5JihF4TBFptL8fUbIHw
+#EXTINF:-1 xui-id="368675" tvg-id="" tvg-name="[FR*] Dazn 3" tvg-logo="http://streamsland.com:8080/images/Bp-vRtZEje6kFpdMZzWxZ7pm07j6LNDEEvWbJVBp2o3tFragNGAHbTFNHN6fV7Eb2ZnRgafovTCC3XpIpC-6OrPB3MSF1duOaYtMrckPm7Q.png" group-title="Dazn Sport دازن",[FR*] Dazn 3
+http://streamsland.com:8080/play/za7EfOQAehL10MnRqcZvCzMnsvTSFpyp3UGkFUSRWqcYrygVueVW8I42_MfjZZN9
+#EXTINF:-1 xui-id="368676" tvg-id="" tvg-name="[FR*] Dazn 4" tvg-logo="http://streamsland.com:8080/images/Bp-vRtZEje6kFpdMZzWxZ7pm07j6LNDEEvWbJVBp2o3tFragNGAHbTFNHN6fV7Eb2ZnRgafovTCC3XpIpC-6OrPB3MSF1duOaYtMrckPm7Q.png" group-title="Dazn Sport دازن",[FR*] Dazn 4
+http://streamsland.com:8080/play/za7EfOQAehL10MnRqcZvCzMnsvTSFpyp3UGkFUSRWqefIq9YTrPrZATdygNH90su
+#EXTINF:-1 xui-id="368677" tvg-id="" tvg-name="[FR*] Dazn 5" tvg-logo="http://streamsland.com:8080/images/Bp-vRtZEje6kFpdMZzWxZ7pm07j6LNDEEvWbJVBp2o3tFragNGAHbTFNHN6fV7Eb2ZnRgafovTCC3XpIpC-6OrPB3MSF1duOaYtMrckPm7Q.png" group-title="Dazn Sport دازن",[FR*] Dazn 5
+http://streamsland.com:8080/play/za7EfOQAehL10MnRqcZvCzMnsvTSFpyp3UGkFUSRWqc0PtsOV9geINp0A03J5BjD
+#EXTINF:-1 xui-id="25501" tvg-id="eurosport1.fr" tvg-name="[FR*] Eurosport 1" tvg-logo="http://streamsland.com:8080/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dQLhP3oMKAeccy4vJ9jF6eKojzrEWK6Lv-bs3mCMlddxw.png" group-title="France Sport",[FR*] Eurosport 1
+http://streamsland.com:8080/play/za7EfOQAehL10MnRqcZvC3-2l6bmH51swmDkGGj7teG2gcEagS9KkXnTSGYHT30N
+#EXTINF:-1 xui-id="25502" tvg-id="eurosport2.fr" tvg-name="[FR*] Eurosport 2" tvg-logo="http://streamsland.com:8080/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dQLhP3oMKAeccy4vJ9jF6eKojzrEWK6Lv-bs3mCMlddxw.png" group-title="France Sport",[FR*] Eurosport 2
+http://streamsland.com:8080/play/za7EfOQAehL10MnRqcZvC3-2l6bmH51swmDkGGj7teEKAI9WZbyQSMABdjsJXmt6
+#EXTINF:-1 xui-id="25520" tvg-id="01tv.fr" tvg-name="[FR*] Extreme Sport" tvg-logo="http://streamsland.com:8080/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dRXb7OXl1xAVPz_2WidyCT6DPUsZfuHpdnq8ViKPGtJew.png" group-title="France Sport",[FR*] Extreme Sport
+http://streamsland.com:8080/play/za7EfOQAehL10MnRqcZvC3-2l6bmH51swmDkGGj7teHwm88igUiJ3fFa1ERIUPzL
+#EXTINF:-1 xui-id="25503" tvg-id="01tv.fr" tvg-name="[FR*] Foot +24/24" tvg-logo="http://streamsland.com:8080/images/8cGRMdqqgj4AnMhY1l2B1l3YgpjIm5MFPxd7LW7v_Tq2uYGGMRGtx_f-61tZ50LKnZiNuiXniQzEDvrAHOizR0zRX28CzgjvWm865kUzR64.png" group-title="France Sport",[FR*] Foot +24/24
+http://streamsland.com:8080/play/za7EfOQAehL10MnRqcZvC3-2l6bmH51swmDkGGj7teEFo6ACSt0napFirQu8N-JU
+#EXTINF:-1 xui-id="25523" tvg-id="golfplus.fr" tvg-name="[FR*] Golf+" tvg-logo="http://streamsland.com:8080/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTBy80mnpG9SYtEt8qqc8wSn-0YEE6n4YtWGo36a1xz8Q.png" group-title="France Sport",[FR*] Golf+
+http://streamsland.com:8080/play/za7EfOQAehL10MnRqcZvC3-2l6bmH51swmDkGGj7teGkAX4ullsMqZnCkr2fFI8E
+#EXTINF:-1 xui-id="25497" tvg-id="infosportplus.fr" tvg-name="[FR*] Infosport" tvg-logo="http://streamsland.com:8080/images/8cGRMdqqgj4AnMhY1l2B1j54tnTVHgvU9PVXlnRPGgl-lYPJSzejENobVD9ZfnHDW8Olapam1Gl-ow0a6Y6O3HkrOiNf1HAyUmlQdH3dLyU.png" group-title="France Sport",[FR*] Infosport
+http://streamsland.com:8080/play/za7EfOQAehL10MnRqcZvC3-2l6bmH51swmDkGGj7teGLhDO0EDy-r6ymr180rHbZ
+#EXTINF:-1 xui-id="25498" tvg-id="" tvg-name="[FR*] L'equipe" tvg-logo="http://streamsland.com:8080/images/3c73719c37f8190c5f643160cf928e86.png" group-title="France Sport",[FR*] L'equipe
+http://streamsland.com:8080/play/za7EfOQAehL10MnRqcZvC3-2l6bmH51swmDkGGj7teHU2rsJdqyKF2VTgG7cpD8L
+
 
 
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@####@#@@@@@@@@@@@@@@@@@@@@@£££££££££
