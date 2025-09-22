@@ -1642,6 +1642,205 @@ http://panel.sulu1.cc:2052/travis1/travis1/88770
 
 
 
+##### Document Thai #######
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.ibb.co/zv40P0s/logo-amazing.png",AMAZING
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.10
+http://49.0.64.96:8007/AMAZING
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.ibb.co/bMtB5NKS/logo-animal.png",Animal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.10
+http://49.0.64.96:8007/Animal
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.ibb.co/gQLyLmK/logo-seience.png",Science
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.10
+http://49.0.64.96:8007/WSCI
+
+#EXTINF:1 tvg-logo="https://www.fileinw.com/postor/20240617204638FWDoc.jpg" group-title="Documentary", FWDOC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.10
+https://freelive2.inwstream.com:1936/freelive-edge/fwdoc_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMi8yMDI1IDM6NDY6MDEgQU0maGFzaF92YWx1ZT1ZK2c4UVJ6ajIvRDhaaThOZ1lkYkdRPT0mdmFsaWRtaW51dGVzPTI=
+
+#EXTINF:-1  group-title="Documentary" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ca686ee0-b44c-11ee-9f05-591527f02603_webp_original.webp",Test
+#EXTVLCOPT:http-referrer=https://www.livedoomovies.com/
+https://www.livedoomovies.com:4432/sumrujlok_goodtv/chunklist.m3u8
+
+#EXTINF:-1  group-title="Documentary" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c97ab380-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp",true explore life
+#EXTVLCOPT:http-referrer=https://www.livedoomovies.com/
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueexplorelife.m3u8
+
+#EXTINF:-1  group-title="Documentary" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c9f16a20-b44c-11ee-8e80-c3f417d0d932_webp_original.webp",true explore Sci
+#EXTVLCOPT:http-referrer=https://www.livedoomovies.com/
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueexploresci.m3u8
+
+#EXTINF:-1  group-title="Documentary" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ca686ee0-b44c-11ee-9f05-591527f02603_webp_original.webp",true explore Wild
+#EXTVLCOPT:http-referrer=https://www.livedoomovies.com/
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueexplorewild.m3u8
+
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/history.png",History HD (TH)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bf7ec2974fa14a248e338280a6e64cb8:7e81ae9282d08881e304aa527a1d7e72
+#EXTVLCOPT:http-referrer=https://www.livedoomovies.com/
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truehistroy.m3u8
+
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/history.png",History HD
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bf7ec2974fa14a248e338280a6e64cb8:7e81ae9282d08881e304aa527a1d7e72
+https://atemecdnbalancer-voe.sysln.id/live/eds/HistoryHD/mpd/HistoryHD.mpd
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/ci.png",CRIME INVESTIGATION
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6823c964c02441ddb7a86545f43105b9:239a8749f4ed765966b163751b1619c3
+https://atemecdnbalancer-voe.sysln.id/live/eds/CrimeInvestigationHD/mpd/CrimeInvestigationHD.mpd
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png",HGTV 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4d3d70298a8f442f9dee7c11a47c3edf:ff7a89f008a62664e5ebd821187296d1
+https://atemecdnbalancer-voe.sysln.id/live/eds/HGTVHD/mpd/HGTVHD.mpd
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//AnimalPlanet.png",Animal Planet
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe0d35dd7f2045e58bfdfeea879a8ae9:6a61e84d6c9147aa68c06d68f1d7b218
+https://atemecdnbalancer-voe.sysln.id/live/eds/AnimalPlanetHD/mpd/AnimalPlanetHD.mpd
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Discovery.png",Discovery Channel (TH)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00cff33589a6468eb98e4db7aad46ca0:53bb2de4f3a4ed84661e4fc527a1fc09
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/aisDiscover.m3u8
+
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Discovery.png",Discovery Channel 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00cff33589a6468eb98e4db7aad46ca0:53bb2de4f3a4ed84661e4fc527a1fc09
+https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryHD/mpd/DiscoveryHD.mpd
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//DiscoveryAsia.png",Discovery Asia
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=27c8a08eabcd4bbc88eda3690cbf6aaf:bb078e32f6df14ca97bff5b8aee8caf5
+https://atemeshield1-voe.sysln.id/live/eds/DiscoveryAsiaHD/mpd/DiscoveryAsiaHD.mpd
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/Curiosity.png",CURIOSITY CHANNEL
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#https://raw.githubusercontent.com/hendroagung2904/IDH/refs/heads/main/IDH-Curiosity.m3u8
+https://cdn08jtedge.indihometv.com/dassdvr/194/curiosity/manifest.mpd
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/dmax.png",DMAX TV 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=62fae935e91c4e8d9e835a294ea81909:328cfed51cba1bfa41f1bda219ceeff8
+https://atemecdnbalancer-voe.sysln.id/live/eds/DMAXHD/mpd/DMAXHD.mpd
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/ro/1/1d/Love_Nature_TV.png",Love Nature
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8b878569bb12450aa445e43b705109be:33183c9de39dafd7c9310081f97b4825
+https://atemecdnbalancer-voe.sysln.id/live/eds/LoveNatureHD/mpd/LoveNatureHD.mpd
+
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5822536e-f8a5-44ea-a82f-a73be1b983e8/fox_weather_horizontal.png",FOX WEATHER
+https://247wlive.foxweather.com/stream/index.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/RT_Doc.png",RT DOCUMENTARY
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="discoveryhistory.uk" tvg-name="Discovery History HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/discovery-history-uk.png?raw=true" group-title="Documentary",Discovery History HD
+http://panel.sulu1.cc:2052/travis1/travis1/31472
+#EXTINF:-1 tvg-id="discoveryhistory.uk" tvg-name="Discovery History FHD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/discovery-history-uk.png?raw=true" group-title="Documentary",Discovery History FHD
+http://panel.sulu1.cc:2052/travis1/travis1/31473
+#EXTINF:-1 tvg-id="hgtv.uk" tvg-name="HGTV HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/hgtv-uk.png?raw=true" group-title="Documentary",HGTV HD
+http://panel.sulu1.cc:2052/travis1/travis1/18673
+#EXTINF:-1 tvg-id="hgtv.uk" tvg-name="HGTV FHD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/hgtv-uk.png?raw=true" group-title="Documentary",HGTV FHD
+http://panel.sulu1.cc:2052/travis1/travis1/18472
+#EXTINF:-1 tvg-id="discoverydmax.uk" tvg-name="DMAX HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/dmax-uk.png?raw=true" group-title="Documentary",DMAX HD
+http://panel.sulu1.cc:2052/travis1/travis1/3514
+#EXTINF:-1 tvg-id="discoverydmax.uk" tvg-name="DMAX FHD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/dmax-uk.png?raw=true" group-title="Documentary",DMAX FHD
+http://panel.sulu1.cc:2052/travis1/travis1/754
+#EXTINF:-1 tvg-id="skydocumentaries.uk" tvg-name="Sky Documentaries HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-docs-uk.png?raw=true" group-title="Documentary",Sky Documentaries HD
+http://panel.sulu1.cc:2052/travis1/travis1/13038
+#EXTINF:-1 tvg-id="skydocumentaries.uk" tvg-name="Sky Documentaries FHD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-docs-uk.png?raw=true" group-title="Documentary",Sky Documentaries FHD
+http://panel.sulu1.cc:2052/travis1/travis1/13003
+#EXTINF:-1 tvg-id="skycrime.uk" tvg-name="Sky Crime HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-crime-uk.png?raw=true" group-title="Documentary",Sky Crime HD
+http://panel.sulu1.cc:2052/travis1/travis1/12655
+#EXTINF:-1 tvg-id="skycrime.uk" tvg-name="Sky Crime FHD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-crime-uk.png?raw=true" group-title="Documentary",Sky Crime FHD
+http://panel.sulu1.cc:2052/travis1/travis1/12654
+#EXTINF:-1 tvg-id="skynature.uk" tvg-name="Sky Nature HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-nature-uk.png?raw=true" group-title="Documentary",Sky Nature HD
+http://panel.sulu1.cc:2052/travis1/travis1/12648
+#EXTINF:-1 tvg-id="skynature.uk" tvg-name="Sky Nature FHD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-nature-uk.png?raw=true" group-title="Documentary",Sky Nature FHD
+http://panel.sulu1.cc:2052/travis1/travis1/12647
+#EXTINF:-1 tvg-id="crimeandinvestigationnetwork.uk" tvg-name="Crime+Investigation HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/crime-and-investigation-uk.png?raw=true" group-title="Documentary",Crime+Investigation HD
+http://panel.sulu1.cc:2052/travis1/travis1/942
+#EXTINF:-1 tvg-id="crimeandinvestigationnetwork.uk" tvg-name="Crime+Investigation FHD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/crime-and-investigation-uk.png?raw=true" group-title="Documentary",Crime+Investigation FHD
+http://panel.sulu1.cc:2052/travis1/travis1/941
+#EXTINF:-1 tvg-id="discoverychannel.uk" tvg-name="Discovery HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/discovery-channel-icon-uk.png?raw=true" group-title="Documentary",Discovery HD
+http://panel.sulu1.cc:2052/travis1/travis1/3408
+#EXTINF:-1 tvg-id="discoverychannel.uk" tvg-name="Discovery FHD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/discovery-channel-icon-uk.png?raw=true" group-title="Documentary",Discovery FHD
+http://panel.sulu1.cc:2052/travis1/travis1/3409
+#EXTINF:-1 tvg-id="natgeo.uk" tvg-name="National Geographic HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/national-geographic-uk.png?raw=true" group-title="Documentary",National Geographic HD
+http://panel.sulu1.cc:2052/travis1/travis1/904
+#EXTINF:-1 tvg-id="natgeo.uk" tvg-name="National Geographic FHD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/national-geographic-uk.png?raw=true" group-title="Documentary",National Geographic FHD
+http://panel.sulu1.cc:2052/travis1/travis1/3424
+#EXTINF:-1 tvg-id="skyhistory.uk" tvg-name="Sky History HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-history-light-uk.png?raw=true" group-title="Documentary",Sky History HD
+http://panel.sulu1.cc:2052/travis1/travis1/3417
+#EXTINF:-1 tvg-id="skyhistory.uk" tvg-name="Sky History FHD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-history-light-uk.png?raw=true" group-title="Documentary",Sky History FHD
+http://panel.sulu1.cc:2052/travis1/travis1/3418
+#EXTINF:-1 tvg-id="investigationdiscovery.uk" tvg-name="Investigation Discovery HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/investigation-discovery-uk.png?raw=true" group-title="Documentary",Investigation Discovery HD
+http://panel.sulu1.cc:2052/travis1/travis1/775
+#EXTINF:-1 tvg-id="investigationdiscovery.uk" tvg-name="Investigation Discovery FHD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/investigation-discovery-uk.png?raw=true" group-title="Documentary",Investigation Discovery FHD
+http://panel.sulu1.cc:2052/travis1/travis1/3412
+#EXTINF:-1 tvg-id="u&yesterday.uk" tvg-name="U&Yesterday HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/u-and-yesterday-uk.png?raw=true" group-title="Documentary",U&Yesterday HD
+http://panel.sulu1.cc:2052/travis1/travis1/907
+#EXTINF:-1 tvg-id="u&yesterday.uk" tvg-name="U&Yesterday FHD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/u-and-yesterday-uk.png?raw=true" group-title="Documentary",U&Yesterday FHD
+http://panel.sulu1.cc:2052/travis1/travis1/3427
+#EXTINF:-1 tvg-id="discoveryturbo.uk" tvg-name="Discovery Turbo HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/discovery-turbo-uk.png?raw=true" group-title="Documentary",Discovery Turbo HD
+http://panel.sulu1.cc:2052/travis1/travis1/909
+#EXTINF:-1 tvg-id="discoveryturbo.uk" tvg-name="Discovery Turbo FHD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/discovery-turbo-uk.png?raw=true" group-title="Documentary",Discovery Turbo FHD
+http://panel.sulu1.cc:2052/travis1/travis1/3413
+#EXTINF:-1 tvg-id="animalplanet.uk" tvg-name="Animal Planet HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/animal-planet-uk.png?raw=true" group-title="Documentary",Animal Planet HD
+http://panel.sulu1.cc:2052/travis1/travis1/3404
+#EXTINF:-1 tvg-id="Animal.Planet.uk" tvg-name="Animal Planet FHD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/animal-planet-uk.png?raw=true" group-title="Documentary",Animal Planet FHD
+http://panel.sulu1.cc:2052/travis1/travis1/3405
+#EXTINF:-1 tvg-id="skyhistory2.uk" tvg-name="Sky H2 History HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-history-2-light-uk.png?raw=true" group-title="Documentary",Sky H2 History HD
+http://panel.sulu1.cc:2052/travis1/travis1/946
+#EXTINF:-1 tvg-id="skyhistory2.uk" tvg-name="Sky H2 History FHD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-history-2-light-uk.png?raw=true" group-title="Documentary",Sky H2 History FHD
+http://panel.sulu1.cc:2052/travis1/travis1/923
+#EXTINF:-1 tvg-id="blaze.uk" tvg-name="Blaze HD" tvg-logo="https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2019-10/BLAZE-orange-logo-255x140.png?itok=Ra5C5EfS" group-title="Documentary",Blaze HD
+http://panel.sulu1.cc:2052/travis1/travis1/3406
+#EXTINF:-1 tvg-id="BLAZE.uk" tvg-name="Blaze FHD" tvg-logo="https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2019-10/BLAZE-orange-logo-255x140.png?itok=Ra5C5EfS" group-title="Documentary",Blaze FHD
+http://panel.sulu1.cc:2052/travis1/travis1/915
+#EXTINF:-1 tvg-id="natgeowild.uk" tvg-name="Nat Geo Wild HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/national-geographic-wild-uk.png?raw=true" group-title="Documentary",Nat Geo Wild HD
+http://panel.sulu1.cc:2052/travis1/travis1/914
+#EXTINF:-1 tvg-id="natgeowild.uk" tvg-name="Nat Geo Wild FHD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/national-geographic-wild-uk.png?raw=true" group-title="Documentary",Nat Geo Wild FHD
+http://panel.sulu1.cc:2052/travis1/travis1/3414
+#EXTINF:-1 tvg-id="u&eden.uk" tvg-name="U&eden HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/u-and-eden-uk.png?raw=true" group-title="Documentary",U&eden HD
+http://panel.sulu1.cc:2052/travis1/travis1/939
+#EXTINF:-1 tvg-id="u&eden.uk" tvg-name="U&eden FHD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/u-and-eden-uk.png?raw=true" group-title="Documentary",U&eden FHD
+http://panel.sulu1.cc:2052/travis1/travis1/919
+#EXTINF:-1 tvg-id="discoveryscience.uk" tvg-name="Discovery Science HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/discovery-science-uk.png?raw=true" group-title="Documentary",Discovery Science HD
+http://panel.sulu1.cc:2052/travis1/travis1/3411
+#EXTINF:-1 tvg-id="discoveryscience.uk" tvg-name="Discovery Science FHD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/discovery-science-uk.png?raw=true" group-title="Documentary",Discovery Science FHD
+http://panel.sulu1.cc:2052/travis1/travis1/3410
+#EXTINF:-1 tvg-id="pbsamerica.uk" tvg-name="PBS America HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/pbs-america-uk.png?raw=true" group-title="Documentary",PBS America HD
+http://panel.sulu1.cc:2052/travis1/travis1/3528
+#EXTINF:-1 tvg-id="pbsamerica.uk" tvg-name="PBS America FHD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/pbs-america-uk.png?raw=true" group-title="Documentary",PBS America FHD
+http://panel.sulu1.cc:2052/travis1/travis1/3426
+#EXTINF:-1 tvg-id="Together.uk" tvg-name="Together TV HD" tvg-logo="http://www.tmsimg.com/assets/s24677_ll_h3_aa.png" group-title="Documentary",Together TV HD
+http://panel.sulu1.cc:2052/travis1/travis1/877
+#EXTINF:-1 tvg-id="togethertv.uk" tvg-name="Together TV FHD" tvg-logo="http://www.tmsimg.com/assets/s24677_ll_h3_aa.png" group-title="Documentary",Together TV FHD
+http://panel.sulu1.cc:2052/travis1/travis1/9818
+
 
 #@###@@@@@@@@@@@##########@@#####@@@@@@@@@@@@@@@@@####@@@@@##@@@@@@@@@@@@
 
