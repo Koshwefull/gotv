@@ -837,30 +837,812 @@ https://a53aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/jts4tzzv1k/o
 #EXTINF:-1 tvg-id="ytv" tvg-name="__" tvg-logo="https://assets.stacktv.ca/wp-content/uploads/2023/09/ytv.png" group-title="Kids",YTV
 https://a196aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/o7aqpbb6vv/out/v1/f8f6ef738ef24c4f8176d561ffb8a157/cenc.mpd
 
-<=================================================== MUSIC ==========================================>
+____________________________cartoon___________________________________________&__
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=55d8bf610e3142408ecfa5295d7eba39:0774f3ae6ea32f9b4c24896f1fb5bb40
-#EXTINF:-1 tvg-id="MusicTV.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/009/50009-SNAPSHOT-l.png" group-title="Music",Music TV
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/c20d75deb06f401aa89681a9e5054de7/index.mpd
+#EXTINF:-1 group-title="Cartoon" tvg-logo="https://i.ibb.co/qYGcDkdc/logo-fuck-toon.png",FuckIDTOON
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.10
+http://49.0.64.96:8007/Cartoonumi
 
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e83b7a7c66c941d48dfd393086077745:71f4a249b41cb62db6164b47fb22722f
-#EXTINF:-1 tvg-id="MTV90s" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/950/49950-SNAPSHOT-l.png" group-title="Music",MTV 90's
-https://atemecdnbalancer-voe.sysln.id/live/eds/MTV90sHD/mpd/MTV90sHD.mpd
+#EXTINF:-1 group-title="Cartoon" tvg-logo="https://www.fileinw.com/postor/20240429213651FWTOON.jpg",FWTOON
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.10
+https://freelive2.inwstream.com:1936/freelive-edge/fwtoon_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDI1IDEyOjEyOjQ2IFBNJmhhc2hfdmFsdWU9N3gvMjA4RWNONFBZb3BrbDQvYUFLQT09JnZhbGlkbWludXRlcz0y
 
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=fd2992f9397c491497015b57cd1c8747:1dcd4c7b242b479fd9f1899120fd1f2f
-#EXTINF:-1 tvg-id="MTVLive.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/948/49948-SNAPSHOT-l.png" group-title="Music",MTV Live HD
-https://atemecdnbalancer-voe.sysln.id/live/eds/MTVLiveHD/mpd/MTVLiveHD.mpd
+#EXTINF:-1 group-title="Cartoon" tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//0171.png",CARTOON NETWORK (TH)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f140b94c73ab4ef5b96da7f49afb1154:85e4ef232c6e460f888eb20f651d66e3
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/301/301.mpd
+
+#EXTINF:-1 group-title="Cartoon" tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Cartoonito.png",CARTOONITO (TH)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ad2371259d34404cb89d54a4dc88dcd3:1ba155e345c4456ba891cbee9b3e1c4c
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/302/302.mpd
+
+#EXTINF:-1 group-title="Cartoon" tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO_Nickelodeon2.png",NICKELODEON (TH)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9130a6448a74430794d355b48b56a64c:c2f4d3288cdb43cf81e519ceb414dd6f
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/303/303.mpd
+
+#EXTINF:-1 group-title="Cartoon" tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/Nickjr_2024.png",NICK JUNIOR (TH)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=641c3f0e676d49d18c2082e093380e69:e06f3a2e327643249c3831ab199c4015
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/304/304.mpd
+
+#EXTINF:-1 group-title="Cartoon" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0156.png",Nick Jr
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=641c3f0e676d49d18c2082e093380e69:e06f3a2e327643249c3831ab199c4015
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/304/304.mpd
+
+#EXTINF:-1 group-title="Cartoon" tvg-logo="https://iptv-pro.github.io/logo/DREAMWORKS.png",TRUE DreamWorks
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truedreamworks.m3u8
+
+#EXTINF:-1 group-title="Cartoon" tvg-logo="https://images.livebox.co/images/tv/png/sd-sparkplay.png",TRUE SPARK PLAY
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truesparkplay.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="Cartoon.Net.HD.uk" tvg-name="Cartoon Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" group-title="Cartoon",Cartoon Network HD
+http://panel.sulu1.cc:2052/travis1/travis1/15315
+#EXTINF:-1 tvg-id="Cartoon.Network.ENG.se" tvg-name="Cartoon Network FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" group-title="Cartoon",Cartoon Network FHD
+http://panel.sulu1.cc:2052/travis1/travis1/3227
+
+#EXTINF:-1 tvg-id="cartoonnetworkplus1.uk" tvg-name="Cartoon Network +1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Cartoon_Network_%2B1_2014.svg/revision/latest/scale-to-width-down/300?cb=20200901090926" group-title="Cartoon",Cartoon Network +1
+http://panel.sulu1.cc:2052/travis1/travis1/1131
+#EXTINF:-1 tvg-id="boomerang.uk" tvg-name="Boomerang HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="Cartoon",Boomerang HD
+http://panel.sulu1.cc:2052/travis1/travis1/3225
+#EXTINF:-1 tvg-id="boomerang.uk" tvg-name="Boomerang FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="Cartoon",Boomerang FHD
+http://panel.sulu1.cc:2052/travis1/travis1/3242
+#EXTINF:-1 tvg-id="boomerangplus1.uk" tvg-name="Boomerang +1" tvg-logo="https://www.planetecsat.com/wp-content/uploads/2022/11/Boomerang-1.png" group-title="Cartoon",Boomerang +1
+http://panel.sulu1.cc:2052/travis1/travis1/3243
+#EXTINF:-1 tvg-id="nickelodeon.uk" tvg-name="Nickelodeon HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Nickelodeon_Splat_2023_Sin_Fondo.png/revision/latest/scale-to-width-down/250?cb=20230810205054&path-prefix=es" group-title="Cartoon",Nickelodeon HD
+http://panel.sulu1.cc:2052/travis1/travis1/1115
+#EXTINF:-1 tvg-id="nickelodeon.uk" tvg-name="Nickelodeon FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Nickelodeon_Splat_2023_Sin_Fondo.png/revision/latest/scale-to-width-down/250?cb=20230810205054&path-prefix=es" group-title="Cartoon",Nickelodeon FHD
+http://panel.sulu1.cc:2052/travis1/travis1/3244
+#EXTINF:-1 tvg-id="nickelodeonplus1.uk" tvg-name="Nickelodeon +1" tvg-logo="https://static.wikia.nocookie.net/logopedia-fanon/images/6/62/Nickelodeon_%2B1_2023.png/revision/latest?cb=20240510000513" group-title="Cartoon",Nickelodeon +1
+http://panel.sulu1.cc:2052/travis1/travis1/3237
+#EXTINF:-1 tvg-id="Nicktoons.uk" tvg-name="Nicktoons HD" tvg-logo="http://www.tmsimg.com/assets/s31168_ll_h3_aa.png" group-title="Cartoon",Nicktoons HD
+http://panel.sulu1.cc:2052/travis1/travis1/3234
+#EXTINF:-1 tvg-id="Nicktoons.uk" tvg-name="Nicktoons FHD" tvg-logo="http://www.tmsimg.com/assets/s31168_ll_h3_aa.png" group-title="Cartoon",Nicktoons FHD
+http://panel.sulu1.cc:2052/travis1/travis1/3235
+#EXTINF:-1 tvg-id="nickjunior.uk" tvg-name="Nick Jr. HD" tvg-logo="https://static.wikia.nocookie.net/logo-timeline/images/2/2c/Nick_Jr_2023.webp/revision/latest?cb=20240128235839" group-title="Cartoon",Nick Jr. HD
+http://panel.sulu1.cc:2052/travis1/travis1/3239
+#EXTINF:-1 tvg-id="nickjunior.uk" tvg-name="Nick Jr. FHD" tvg-logo="https://static.wikia.nocookie.net/logo-timeline/images/2/2c/Nick_Jr_2023.webp/revision/latest?cb=20240128235839" group-title="Cartoon",Nick Jr. FHD
+http://panel.sulu1.cc:2052/travis1/travis1/1119
+#EXTINF:-1 tvg-id="nickjrtoo.uk" tvg-name="Nick Jr. too HD" tvg-logo="http://www.tmsimg.com/assets/s50269_ll_h3_aa.png" group-title="Cartoon",Nick Jr. too HD
+http://panel.sulu1.cc:2052/travis1/travis1/3230
+#EXTINF:-1 tvg-id="nickjrtoo.uk" tvg-name="Nick Jr. too FHD" tvg-logo="http://www.tmsimg.com/assets/s50269_ll_h3_aa.png" group-title="Cartoon",Nick Jr. too FHD
+http://panel.sulu1.cc:2052/travis1/travis1/3232
+#EXTINF:-1 tvg-id="skykids.uk" tvg-name="Sky Kids HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Sky_Kids_logo_2023.svg/2560px-Sky_Kids_logo_2023.svg.png" group-title="Cartoon",Sky Kids HD
+http://panel.sulu1.cc:2052/travis1/travis1/1121
+#EXTINF:-1 tvg-id="skykids.uk" tvg-name="Sky Kids FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Sky_Kids_logo_2023.svg/2560px-Sky_Kids_logo_2023.svg.png" group-title="Cartoon",Sky Kids FHD
+http://panel.sulu1.cc:2052/travis1/travis1/3245
+#EXTINF:-1 tvg-id="cbbc.uk" tvg-name="CBBC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/CBBC_%282023%29.svg/1200px-CBBC_%282023%29.svg.png" group-title="Cartoon",CBBC HD
+http://panel.sulu1.cc:2052/travis1/travis1/1122
+#EXTINF:-1 tvg-id="cbbc.uk" tvg-name="CBBC FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/CBBC_%282023%29.svg/1200px-CBBC_%282023%29.svg.png" group-title="Cartoon",CBBC FHD
+http://panel.sulu1.cc:2052/travis1/travis1/3248
+#EXTINF:-1 tvg-id="cbeebies.uk" tvg-name="CBeebies HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/CBeebies_2023.svg/1200px-CBeebies_2023.svg.png" group-title="Cartoon",CBeebies HD
+http://panel.sulu1.cc:2052/travis1/travis1/1124
+#EXTINF:-1 tvg-id="cbeebies.uk" tvg-name="CBeebies FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/CBeebies_2023.svg/1200px-CBeebies_2023.svg.png" group-title="Cartoon",CBeebies FHD
+http://panel.sulu1.cc:2052/travis1/travis1/3228
+#EXTINF:-1 tvg-id="cartoonito.uk" tvg-name="Cartoonito HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/cartoonito-uk.png?raw=true" group-title="Cartoon",Cartoonito HD
+http://panel.sulu1.cc:2052/travis1/travis1/1125
+#EXTINF:-1 tvg-id="cartoonito.uk" tvg-name="Cartoonito FHD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/cartoonito-uk.png?raw=true" group-title="Cartoon",Cartoonito FHD
+http://panel.sulu1.cc:2052/travis1/travis1/3233
+
+#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="Animation 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/kids-animation-vod.png?raw=true" group-title="Cartoon",Animation 1
+http://panel.sulu1.cc:2052/travis1/travis1/90039
+#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="Animation 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/kids-animation-vod.png?raw=true" group-title="Cartoon",Animation 2
+http://panel.sulu1.cc:2052/travis1/travis1/90040
+#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="Animation 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/kids-animation-vod.png?raw=true" group-title="Cartoon",Animation 3
+http://panel.sulu1.cc:2052/travis1/travis1/90041
+#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="Animation 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/kids-animation-vod.png?raw=true" group-title="Cartoon",Animation 4
+http://panel.sulu1.cc:2052/travis1/travis1/90042
+#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="Animation 5" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/kids-animation-vod.png?raw=true" group-title="Cartoon",Animation 5
+http://panel.sulu1.cc:2052/travis1/travis1/90043
+#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="Animation 6" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/kids-animation-vod.png?raw=true" group-title="Cartoon",Animation 6
+http://panel.sulu1.cc:2052/travis1/travis1/90044
+#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="Animation 7" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/kids-animation-vod.png?raw=true" group-title="Cartoon",Animation 7
+http://panel.sulu1.cc:2052/travis1/travis1/90045
+#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="Animation 8" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/kids-animation-vod.png?raw=true" group-title="Cartoon",Animation 8
+http://panel.sulu1.cc:2052/travis1/travis1/90046
+#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="Animation 9" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/kids-animation-vod.png?raw=true" group-title="Cartoon",Animation 9
+http://panel.sulu1.cc:2052/travis1/travis1/90047
+#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="Animation 10" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/kids-animation-vod.png?raw=true" group-title="Cartoon",Animation 10
+http://panel.sulu1.cc:2052/travis1/travis1/90048
+#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="Animation 11" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/kids-animation-vod.png?raw=true" group-title="Cartoon",Animation 11
+http://panel.sulu1.cc:2052/travis1/travis1/90049
+#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="Animation 12" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/kids-animation-vod.png?raw=true" group-title="Cartoon",Animation 12
+http://panel.sulu1.cc:2052/travis1/travis1/90050
+#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="Animation 13" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/kids-animation-vod.png?raw=true" group-title="Cartoon",Animation 13
+http://panel.sulu1.cc:2052/travis1/travis1/90051
+#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="Animation 14" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/kids-animation-vod.png?raw=true" group-title="Cartoon",Animation 14
+http://panel.sulu1.cc:2052/travis1/travis1/90052
+#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="Animation 15" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/kids-animation-vod.png?raw=true" group-title="Cartoon",Animation 15
+http://panel.sulu1.cc:2052/travis1/travis1/90053
+#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="Animation 16" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/kids-animation-vod.png?raw=true" group-title="Cartoon",Animation 16
+http://panel.sulu1.cc:2052/travis1/travis1/90054
+#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="Animation 17" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/kids-animation-vod.png?raw=true" group-title="Cartoon",Animation 17
+http://panel.sulu1.cc:2052/travis1/travis1/90055
+#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="Animation 18" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/kids-animation-vod.png?raw=true" group-title="Cartoon",Animation 18
+http://panel.sulu1.cc:2052/travis1/travis1/90056
+#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="Animation 19" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/kids-animation-vod.png?raw=true" group-title="Cartoon",Animation 19
+http://panel.sulu1.cc:2052/travis1/travis1/90057
+#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="Animation 20" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/kids-animation-vod.png?raw=true" group-title="Cartoon",Animation 20
+http://panel.sulu1.cc:2052/travis1/travis1/90058
+#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="Animation 90's 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/kids-animation-vod.png?raw=true" group-title="Cartoon",Animation 90's 1
+http://panel.sulu1.cc:2052/travis1/travis1/90059
+#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="Animation 90's 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/kids-animation-vod.png?raw=true" group-title="Cartoon",Animation 90's 2
+http://panel.sulu1.cc:2052/travis1/travis1/90060
+#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="Animation 90's 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/kids-animation-vod.png?raw=true" group-title="Cartoon",Animation 90's 3
+http://panel.sulu1.cc:2052/travis1/travis1/90061
+#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="Animation 90's 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/kids-animation-vod.png?raw=true" group-title="Cartoon",Animation 90's 4
+http://panel.sulu1.cc:2052/travis1/travis1/90062
+#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="Animation 90's 5" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/kids-animation-vod.png?raw=true" group-title="Cartoon",Animation 90's 5
+http://panel.sulu1.cc:2052/travis1/travis1/90063
+#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="Animation Classic 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/kids-animation-vod.png?raw=true" group-title="Cartoon",Animation Classic 1
+http://panel.sulu1.cc:2052/travis1/travis1/90064
+#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="Animation Classic 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/kids-animation-vod.png?raw=true" group-title="Cartoon",Animation Classic 2
+http://panel.sulu1.cc:2052/travis1/travis1/90065
+#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="Animation Classic 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/kids-animation-vod.png?raw=true" group-title="Cartoon",Animation Classic 3
+http://panel.sulu1.cc:2052/travis1/travis1/90066
+#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="Animation Classic 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/kids-animation-vod.png?raw=true" group-title="Cartoon",Animation Classic 4
+http://panel.sulu1.cc:2052/travis1/travis1/90067
+#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="Animation Classic 5" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/kids-animation-vod.png?raw=true" group-title="Cartoon",Animation Classic 5
+http://panel.sulu1.cc:2052/travis1/travis1/90068
+#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="Animation Classic 6" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/kids-animation-vod.png?raw=true" group-title="Cartoon",Animation Classic 6
+http://panel.sulu1.cc:2052/travis1/travis1/90069
+#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="Animation Classic 7" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/kids-animation-vod.png?raw=true" group-title="Cartoon",Animation Classic 7
+http://panel.sulu1.cc:2052/travis1/travis1/90070
+#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="Animation Classic 8" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/kids-animation-vod.png?raw=true" group-title="Cartoon",Animation Classic 8
+http://panel.sulu1.cc:2052/travis1/travis1/90071
+#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="KIDS 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/kids-vod.png?raw=true" group-title="Cartoon",KIDS 1
+http://panel.sulu1.cc:2052/travis1/travis1/90072
+#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="KIDS 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/kids-vod.png?raw=true" group-title="Cartoon",KIDS 2
+http://panel.sulu1.cc:2052/travis1/travis1/90073
+#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="KIDS 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/kids-vod.png?raw=true" group-title="Cartoon",KIDS 3
+http://panel.sulu1.cc:2052/travis1/travis1/90074
+#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="KIDS 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/kids-vod.png?raw=true" group-title="Cartoon",KIDS 4
+http://panel.sulu1.cc:2052/travis1/travis1/90075
+#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="KIDS 5" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/kids-vod.png?raw=true" group-title="Cartoon",KIDS 5
+http://panel.sulu1.cc:2052/travis1/travis1/90076
+#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="KIDS 6" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/kids-vod.png?raw=true" group-title="Cartoon",KIDS 6
+http://panel.sulu1.cc:2052/travis1/travis1/90077
+#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="KIDS 7" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/kids-vod.png?raw=true" group-title="Cartoon",KIDS 7
+http://panel.sulu1.cc:2052/travis1/travis1/90078
+#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="KIDS 8" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/kids-vod.png?raw=true" group-title="Cartoon",KIDS 8
+http://panel.sulu1.cc:2052/travis1/travis1/90079
+#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="KIDS 9" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/kids-vod.png?raw=true" group-title="Cartoon",KIDS 9
+http://panel.sulu1.cc:2052/travis1/travis1/90080
+#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="KIDS 10" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/kids-vod.png?raw=true" group-title="Cartoon",KIDS 10
+http://panel.sulu1.cc:2052/travis1/travis1/90081
+#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="KIDS 11" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/kids-vod.png?raw=true" group-title="Cartoon",KIDS 11
+http://panel.sulu1.cc:2052/travis1/travis1/90082
+#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="KIDS 12" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/kids-vod.png?raw=true" group-title="Cartoon",KIDS 12
+http://panel.sulu1.cc:2052/travis1/travis1/90083
+
+______________________________music___________&_____________________
+
+#EXTINF:-1 tvg-id="FM100.5" group-title="Music&Radio" tvg-logo="https://i.postimg.cc/xj6V8Qj4/IMG-2670.png", MCOT News FM100.5
+https://fm1005-live-cdn.mcot.net/tencentradiolive/smil:fm1005_live_tencent.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ลูกทุ่งเน็ตเวิร์ค" group-title="Music&Radio" tvg-logo="https://i.postimg.cc/3wMR6SDt/IMG-2515.png", ลูกทุ่งเน็ตเวิร์ค
+http://vip.login.in.th:1935/looktungnetwork1/looktungnetwork1/playlist.m3u8
+#EXTINF:-1 tvg-id="โอ้! เมืองลาว" group-title="Music&Radio" tvg-logo="https://i.postimg.cc/vmTZdckc/IMG-2739.png", โอ้! เมืองลาว
+https://livefta.malimarcdn.com/ftaedge00/ohmuanglao.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="YG.kr" group-title="Music&Radio" tvg-logo="https://i.postimg.cc/hGdw5h1F/IMG-2465.png", YG TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=424
+#EXTINF:-1 tvg-id="KPOP.eu" group-title="Music&Radio" tvg-logo="https://i.postimg.cc/3wSn88pR/IMG-2092.png", New K-POP
+https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Showchampion.kr" group-title="Music&Radio" tvg-logo="https://i.postimg.cc/X78fpY2f/IMG-2617.png", Show Champion 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=630
+#EXTINF:-1 tvg-id="Mubeat.kr" group-title="Music&Radio" tvg-logo="https://i.postimg.cc/cHx29pzs/IMG-2180.png", mubeat
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=711
+#EXTINF:-1 tvg-id="Trace.uk" group-title="Music&Radio" tvg-logo="https://i.postimg.cc/zDM6wjyB/IMG-2095.png", Trace UK
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-uk/encrypted.m3u8
+#EXTINF:-1 tvg-id="Trace.uk" group-title="Music&Radio" tvg-logo="https://i.postimg.cc/HsL32cDT/IMG-2673.png", Trace Urban
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-urban/encrypted.m3u8
+#EXTINF:-1 tvg-id="V2beat.uk" group-title="Music&Radio" tvg-logo="https://i.postimg.cc/8CjQHySK/IMG-2016.png", V2Beat
+https://abr.de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1 tvg-id="Clubbing.uk" group-title="Music&Radio" tvg-logo="https://i.postimg.cc/656MgNBB/IMG-2667.png", Clubbing TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=609
+#EXTINF:-1 tvg-id="Hitradio.at" group-title="Music&Radio" tvg-logo="https://i.postimg.cc/RVHXRNJ7/IMG-2757.png", Hitradio 3
+https://studiocam-oe3.mdn.ors.at/out/u/studiocam_oe3/q6a/manifest_1.m3u8
+#EXTINF:-1 tvg-id="Juice.nz" group-title="Music&Radio" tvg-logo="https://i.postimg.cc/tT4BtkFJ/IMG-2753.png", Juice TV
+https://juicex.nz/hls/mystream.m3u8
+#EXTINF:-1 tvg-id="Spirit.us" group-title="Music&Radio" tvg-logo="https://i.postimg.cc/76zvvfbS/IMG-2018.png", Spirit TV
+https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
+#EXTINF:-1 tvg-id="Stingray.ca" group-title="Music&Radio" tvg-logo="https://i.postimg.cc/sDTym3Hm/IMG-2736.png", Qello Concerts
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=568
+#EXTINF:-1 tvg-id="Stingray.ca" group-title="Music&Radio" tvg-logo="https://i.postimg.cc/jjVPS671/IMG-2081.png", Smooth Jazz 
+https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="NOW.nz" group-title="Music&Radio" tvg-logo="https://i.postimg.cc/3JG8qT3v/IMG-2388.png", Now Rock 
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Now.nz" group-title="Music&Radio" tvg-logo="https://i.postimg.cc/HWPRzP9g/IMG-2200.png", Now 80's
+https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="iHeart.uk" group-title="Music&Radio" tvg-logo="https://i.postimg.cc/5yLvmxqm/IMG-2601.png", iHeartRadio 90s
+https://iheart-iheart90s-1-us.xumo.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="iHeart.uk" group-title="Music&Radio" tvg-logo="https://i.postimg.cc/sgXxjjQ0/IMG-2603.png", iHeartRadio Hip-Hop
+https://iheart-iheartthebeat-1-us.xumo.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Fashion.fr" group-title="Music&Radio" tvg-logo="https://i.postimg.cc/SKLpY6X3/IMG-2138.png", FTV
+https://fashs043.cloudycdn.services/scte/africa/africa_chunklist.m3u8
+#EXTINF:-1 tvg-id="Fashion.fr" group-title="Music&Radio" tvg-logo="https://i.postimg.cc/SKLpY6X3/IMG-2138.png", FTV Midnite 15+
+https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b3628000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-id="plex.tv.Vevo.`80s.plex" tvg-name="Vevo '80s" tvg-logo="https://images.samsung.com/is/image/samsung/assets/nz/tvs/smart-tv/samsung-tv-plus/all-channels/Vevo-80s_1838.png?$296_164_PNG$" group-title="Music&Radio",Vevo '80s
+http://panel.sulu1.cc:2052/travis1/travis1/88822
+#EXTINF:-1 tvg-id="plex.tv.Vevo.`90s.plex" tvg-name="Vevo '90s" tvg-logo="https://images.samsung.com/is/image/samsung/assets/nz/tvs/smart-tv/samsung-tv-plus/all-channels/Vevo-90s_1839.png?$296_164_PNG$" group-title="Music&Radio",Vevo '90s
+http://panel.sulu1.cc:2052/travis1/travis1/88823
+#EXTINF:-1 tvg-id="plex.tv.Vevo.2K.plex" tvg-name="Vevo 2K" tvg-logo="https://images.samsung.com/is/image/samsung/assets/nz/tvs/smart-tv/samsung-tv-plus/all-channels/SamsungTV_Vevo_2K_1000x1000_Circle.png?$296_164_PNG$" group-title="Music&Radio",Vevo 2K
+http://panel.sulu1.cc:2052/travis1/travis1/88824
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Vevo Features" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b025d7c8-a181-42cf-b5c9-47c3d1085c7f/d7z3znt-cc7481b2-96b3-4037-b6a7-3addfcc9ad52.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2IwMjVkN2M4LWExODEtNDJjZi1iNWM5LTQ3YzNkMTA4NWM3ZlwvZDd6M3pudC1jYzc0ODFiMi05NmIzLTQwMzctYjZhNy0zYWRkZmNjOWFkNTIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.vxcg4HPpf6YRJqEIM27KGNbIumVuKtXLp9L51flhFqg" group-title="Music&Radio",Vevo Features
+http://panel.sulu1.cc:2052/travis1/travis1/88825
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Vevo Hip-Hop" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b025d7c8-a181-42cf-b5c9-47c3d1085c7f/d7z3znt-cc7481b2-96b3-4037-b6a7-3addfcc9ad52.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2IwMjVkN2M4LWExODEtNDJjZi1iNWM5LTQ3YzNkMTA4NWM3ZlwvZDd6M3pudC1jYzc0ODFiMi05NmIzLTQwMzctYjZhNy0zYWRkZmNjOWFkNTIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.vxcg4HPpf6YRJqEIM27KGNbIumVuKtXLp9L51flhFqg" group-title="Music&Radio",Vevo Hip-Hop
+http://panel.sulu1.cc:2052/travis1/travis1/88826
+#EXTINF:-1 tvg-id="VVP" tvg-name="Vevo Pop" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b025d7c8-a181-42cf-b5c9-47c3d1085c7f/d7z3znt-cc7481b2-96b3-4037-b6a7-3addfcc9ad52.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2IwMjVkN2M4LWExODEtNDJjZi1iNWM5LTQ3YzNkMTA4NWM3ZlwvZDd6M3pudC1jYzc0ODFiMi05NmIzLTQwMzctYjZhNy0zYWRkZmNjOWFkNTIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.vxcg4HPpf6YRJqEIM27KGNbIumVuKtXLp9L51flhFqg" group-title="Music&Radio",Vevo Pop
+http://panel.sulu1.cc:2052/travis1/travis1/88827
+
+
+
+
+
+#EXTINF:-1 group-title="Music&Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/wryg76p7ebax.png",Request.Radio สตริง
+http://27.254.142.208:8100/stream/1/
+
+#EXTINF:-1 group-title="Music&Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/GSJSFuqNnJ.png",Request.Radio ลูกทุ่ง
+http://27.254.142.208:8200/stream/1/
+
+#EXTINF:-1 group-title="Music&Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/Shf4dp98ac.png",Request.Radio เพื่อชีวิต
+http://27.254.142.208:8300/stream/1/
+
+#EXTINF:-1 group-title="Music&Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/pFkhvW6wPL.png",Request.Radio สากล
+http://27.254.142.208:8400/stream/1/
+
+#EXTINF:-1 group-title="Music&Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/wryg76p7ebax.png",Request.Radio แดนซ์
+http://27.254.142.208:8500/stream/1/
+
+#EXTINF:-1 group-title="Music&Radio" tvg-logo="https://www.tvjaa.com/storage/radio-channels/sukson.png",Sukson Radio เพลงไทยสากล
+https://stream.pjcdn.com:9000/1;&type=mp3
+
+#EXTINF:-1 group-title="Music&Radio" tvg-logo="https://www.tvjaa.com/storage/radio-channels/sukson.png",Sukson Radio เพลงลูกทุ่ง
+https://stream.pjcdn.com:8200/1;&amp;type=mp3
+
+#EXTINF:-1 group-title="Music&Radio" tvg-logo="https://www.tvjaa.com/storage/radio-channels/sukson.png",Sukson Radio เพลงสากล
+https://stream.pjcdn.com:8000/1;&type=mp3
+
+#EXTINF:-1 group-title="Music&Radio" tvg-logo="https://www.cityradiopattaya.com/wp-content/uploads/2022/01/linerichmessage-2022-01-07T153638.696-1.jpg",City Radio Pattaya
+https://streaming.thaismarthost.com:8020/ctmobile.mp3
+
+#EXTINF:-1 group-title="Music&Radio" tvg-logo="https://www.i-pic.info/i/jbeQ338759.png", COOLfahrenheit
+https://coolism-web.cdn.byteark.com/;stream/1
+#EXTINF:-1 group-title="Music&Radio" tvg-logo="https://www.i-pic.info/i/FOa4340821.jpg", Passion FM
+http://onair22.onair.network:8076/live
+
+#EXTINF:-1 group-title="Music&Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/246pd75kpjkt.png",Big FM(Radio)
+http://media.login.in.th:8195/;stream.mp3
+
+#EXTINF:-1 group-title="Music&Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/246pd75kpjkt.png",Big FM(Live)
+https://cdn-th.login.in.th/bigfm/bigfm/chunklist_w1948352313.m3u8
+
+#EXTINF:-1 group-title="Music&Radio" tvg-logo="https://dbs.radioline.fr/pictures/radio_08cdc58e6024575b05d1bbc3cc10b36a/logo200.jpg",EFM(Live)
+https://atimevideo.smartclick.co.th/live/efmlive.sdp/chunklist_w1216683333.m3u8
+
+#EXTINF:-1 group-title="Music&Radio" tvg-logo="http://www.radio.tmd.go.th/radio/images/station_bkk.png",Thai Weather Radio AM 1287
+http://www.radio.tmd.go.th:8014/;stream.mp3
+
+#EXTINF:-1 group-title="Music&Radio" tvg-logo="http://www.looktung.net/_nuxt/img/logo-160x160.09096e1.png",ลูกทุ่งเน็ตเวิร์ก
+http://media.login.in.th:8200/;stream.mp3
+
+#EXTINF:-1 group-title="Music&Radio" tvg-logo="https://www.i-pic.info/i/TRl6359023.jpg",Arirang Radio
+http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="Music&Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/vxc3vq6dxy8j.jpeg",90 ลูกทุ่ง รักไทย
+http://radio11.plathong.net:8896/;stream.mp3
+
+#EXTINF:-1 group-title="Music&Radio" tvg-logo="https://cdn.webrad.io/images/logos/radioth-net/mitikao905.png",มิติข่าว 90.5
+http://live3.smartbomb.co.th:8624/;stream.mp3
+
+#EXTINF:-1 group-title="Music&Radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/ptshgz8bvtsk.jpeg",สวพ. FM 91
+https://www.fm91bkk.com:8900/;stream.mp3
+
+#EXTINF:-1 group-title="Music&Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/KvDHAwT62s.png",COOL Fahrenheit 93
+https://coolism-web.cdn.byteark.com/;stream/1
+
+#EXTINF:-1 group-title="Music&Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/rxgxwwkpxu6z.jpg",FM93 Love Radio Pattani
+http://103.22.182.14:8060/stream
+
+#EXTINF:-1 group-title="Music&Radio" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaS6GNZiAw2bt05cq9_rcmf7YOmpYr4IM6EnlA7TZbU=s176-c-k-c0x00ffffff-no-rj",สวท.กาฬสินธุ์ กรมประชาสัมพันธ์ FM 93 MHz
+https://cdn-edge-ott.prd.go.th/radio_vlc/1443-021e-6bbb-705c-9e9d.stream_aac/chunklist_w530002674.m3u8
+
+#EXTINF:-1 group-title="Music&Radio" tvg-logo="https://www.94fmclub.net/images/header/logo-1.png",94 FM Club หาดใหญ่
+https://plus.onair.network:8130/94fmclub2
+
+#EXTINF:-1 group-title="Music&Radio" tvg-logo="https://imgs.mcot.net/images/2020/01/1578472935560-167x100.png",ลูกทุ่งมหานคร: FM 95
+https://live-org-01-cdn.mcot.net/radiocdn_edge/fm95.stream_aac/playlist.m3u8
+
+#EXTINF:-1 group-title="Music&Radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/geZgfjMRxE.jpg",Mellow 97.5
+https://rcdn.mcot.net/radiocdn_edge/fm975.stream_aac/playlist.m3u8
+
+#EXTINF:-1 group-title="Music&Radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/naazdc5h6kuz.png",98 อีสาน เอฟเอ็ม
+http://radio11.plathong.net:8900/;stream.mp3
+
+#EXTINF:-1 group-title="Music&Radio" tvg-logo="https://i.postimg.cc/2ygp0Gbg/98-5.jpg",FM 98.5 ลูกทุ่งเน็ตเวิร์ก(Live)
+https://54c241893bf39.streamlock.net/looktungnetwork1/looktungnetwork1/chunklist_w9273485.m3u8
+
+#EXTINF:-1 group-title="Music&Radio" tvg-logo="https://fm99activeradio.mcot.net/wp-content/uploads/2022/05/cropped-iconfm99-1.png",FM 99 Active Radio
+https://rcdn.mcot.net/radiocdn_edge/fm99.stream_aac/playlist.m3u8
+
+#EXTINF:-1 group-title="Music&Radio" tvg-logo="https://i.postimg.cc/qRkjdKHq/sv.jpg",สวท.ขอนแก่น FM 99.50 MHz
+https://cdn-edge-ott.prd.go.th/radio_vlc/3834-2ffa-ed0d-e8fd-7a66.stream_aac/chunklist_w912894205.m3u8
+
+#EXTINF:-1 group-title="Music&Radio" tvg-logo="https://www.js100.com/uploads/ckeditor/images/25151(5).jpg",จส.100 (JS100)
+http://112.121.151.133:8184/;&type=mp3
+
+#EXTINF:-1 group-title="Music&Radio" tvg-logo="https://play-lh.googleusercontent.com/_yJz6qrPLLEDNBAV5gcTC9mShD56AEptH5m1pu-7ZcUOz8oZG7sEWx6WU0DBZAh3-6Q=w240-h480-rw",MCOT NEWS FM 100.5
+https://rcdn.mcot.net/radiocdn_edge/fm1005.stream_aac/playlist.m3u8
+
+#EXTINF:-1 group-title="Music&Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/LwKKkQyUcD.png",FM 101 News&Talk
+http://media.login.in.th:8135/;stream.mp3
+
+#EXTINF:-1 group-title="Music&Radio" tvg-logo="https://pbs.twimg.com/profile_images/1807623439693545472/7kcFNfdv_200x200.jpg",Flex 104.5 Free your Life
+https://streaming.flexconnect.net/voiceflex/voiceflex/playlist.m3u8
+
+#EXTINF:-1 group-title="Music&Radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/M5t3aG2vcB.png",Eazy FM 105.5
+https://playerservices.streamtheworld.com/api/livestream-redirect/EAZYFM_1055AAC_128.aac
+
+#EXTINF:-1 group-title="Music&Radio" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/5vfxsvfwzgqm.png",106 วิทยุครอบครัวข่าว
+http://radio12.plathong.net:8648/;stream.mp3
+
+#EXTINF:-1 group-title="Music&Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/fzc5x62n4qk8.jpg",Yesterday 106.5 FM
+http://radio4.thzhost.com:4122/;
+
+#EXTINF:-1 group-title="Music&Radio" tvg-logo="https://www.met107.fm/assets/images/logo/logo@2x.png",MET107
+https://rcdn.mcot.net/radiocdn_edge/fm107.stream_aac/playlist.m3u8
+
+#EXTINF:-1 group-title="Music&Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/japcrdy9nsfm.png",เพลงลูกทุ่ง ล้านนาเรดิโอ
+http://43.229.135.187:8000/;
+
+#EXTINF:-1 group-title="Music&Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/ddqtw2szlcdc.png",Huahin Radio Thailand
+https://inter1.plathong.net/7008/;stream.mp3
+
+#EXTINF:-1 group-title="Music&Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/6pvkygbpw8v5.jpg",Eingdoi Radio
+http://ohmi-design.com:8170/;
+
+#EXTINF:-1 group-title="Music&Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/eln9tfyqce5h.jpg",เพลงลูกทุ่ง Looktung Eingdoi Station
+https://radio14.plathong.net/7126/;stream.mp3
+
+#EXTINF:-1 group-title="Music&Radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/7DqAhMKgcr.jpeg",Cat Radio
+http://111.223.37.194/CatRadio/CatRadio-High/chunklist_w933164328.m3u8
+
+#EXTINF:-1 group-title="Music&Radio" tvg-logo="https://www.voiceofnavy.com/imgs/7.jpg",สถานีวิทยุเสียงจากทหารเรือ 7 (นครพนม)
+https://radio12.plathong.net/9914/;stream.mp3
+
+#EXTINF:-1 group-title="Music&Radio" tvg-logo="https://radionakhonphanom.prd.go.th/th/file/get/type/thumbnail/file/20210323a8daca5d1007f2ff5a5e818ae76d309f153610.jpg",สวท.นครพนม 90.25 MHz
+https://cdn-edge-ott.prd.go.th/radio_vlc/8ff6-9e28-c96b-b75e-0df7.stream_aac/chunklist_w57895565.m3u8
+
+#EXTINF:-1 group-title="Music&Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/dqhdnczntxrn.png",YES Radio thai Family
+http://27.254.65.244:8000/;
+
+#EXTINF:-1 group-title="Music&Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/epechblwdmx9.png",CU Radio
+http://media.curadio.chula.ac.th:1935/live/liveradio128/playlist.m3u8
+
+#EXTINF:-1 group-title="Music&Radio" tvg-logo="http://www.hugonlinethailand.com/Content/images/Logo%20bear.png",Hug Online Thailand
+http://www.hugonlinethailand.com/
+
+#EXTINF:-1 group-title="Music&Radio" tvg-logo="https://imgs.mcot.net/images/2017/10/1509377605535.png",MCOT Modern Radio
+http://rstream.mcot.net:9066/;
+
+#EXTINF:-1 group-title="Music&Radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/f2vyamxef6zz.png",Musichitz Radio 
+http://rstream.mcot.net:9066/;
+
+#EXTINF:-1 group-title="Music&Radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/b5xenqq4q4kv.jpg",เพลงลูกทุ่ง จั๊กกะจี้เรดิโอ
+http://43.229.135.187:8020/;
+
+#EXTINF:-1 group-title="Music&Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/shmc6hvsrzn7.jpg",Muingtest Radio
+http://ohmi-design.com:8364/;
+
+#EXTINF:-1 group-title="Music&Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/vm4z3fhmyesb.png",MCOT Radio
+http://rstream.mcot.net:9094/;.mp3
+
+#EXTINF:-1 group-title="Music&Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/hfsu6j7fn2jh.png",จส.5 AM 567 KHz ชัยภูมิ
+http://media.login.in.th:8235/;stream.mp3
+
+#EXTINF:-1 group-title="Music&Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/m64xbpvf6qbh.jpg",BP Radio HD
+http://fmonair.com:7890/;
+
+#EXTINF:-1 group-title="Music&Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/enqlqxxlyx5g.jpg",FIN 100 FM
+http://lnwradio.hostsevenplus.com:9416/;stream.mp3
+
+#EXTINF:-1 group-title="Music&Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/NvUAj9bf8W.png",Capitol FM
+http://atlanticthai.primcast.com:5898/;
+
+#EXTINF:-1 group-title="Music&Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/ltwwznwtmq8e.jpg",วัดป่าไทรงาม (Wat Sai Ngam)
+http://103.22.182.105:7110/;
+
+#EXTINF:-1 group-title="Music&Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/BBC_Radio_1_2021.svg/1280px-BBC_Radio_1_2021.svg.png",BBC Radio 1
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/cfs/bbc_radio_one.m3u8
+
+#EXTINF:-1 group-title="Music&Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/BBC_Radio_1_Dance_2022.svg/1280px-BBC_Radio_1_Dance_2022.svg.png",BBC Radio 1 Dance
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/aks/bbc_radio_one_dance.m3u8
+
+#EXTINF:-1 group-title="Music&Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/BBC_Radio_1Xtra_2021.svg/1280px-BBC_Radio_1Xtra_2021.svg.png",BBC Radio 1 Xtra
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/aks/bbc_1xtra.m3u8
+
+#EXTINF:-1 group-title="Music&Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/BBC_Radio_2_2022.svg/1280px-BBC_Radio_2_2022.svg.png",BBC Radio 2
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/cfs/bbc_radio_two.m3u8
+
+#EXTINF:-1 group-title="Music&Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BBC_Radio_3_2022.svg/1280px-BBC_Radio_3_2022.svg.png",BBC Radio 3
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/aks/bbc_radio_three.m3u8
+
+#EXTINF:-1 group-title="Music&Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/BBC_Radio_4_2022.svg/1280px-BBC_Radio_4_2022.svg.png",BBC Radio 4
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/aks/bbc_radio_fourfm.m3u8
+
+#EXTINF:-1 group-title="Music&Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/BBC_Radio_4_Extra_logo_2022.svg/1280px-BBC_Radio_4_Extra_logo_2022.svg.png",BBC Radio 4 Extra
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/cfs/bbc_radio_four_extra.m3u8
+
+#EXTINF:-1 group-title="Music&Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/BBC_Radio_5_Live_2022.svg/1280px-BBC_Radio_5_Live_2022.svg.png",BBC Radio 5 Live
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/aks/bbc_radio_five_live.m3u8
+
+#EXTINF:-1 group-title="Music&Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/BBC_Radio_6_Music_2022.svg/1280px-BBC_Radio_6_Music_2022.svg.png",BBC Radio 6 Music
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/aks/bbc_6music.m3u8
+
+#EXTINF:-1 group-title="Music&Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/BBC_Asian_Network_2022.svg/1280px-BBC_Asian_Network_2022.svg.png",BBC Radio Asian Network
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/aks/bbc_asian_network.m3u8
+
+#EXTINF:-1 group-title="Music&Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/BBC_World_Service_2022_%28Boxed%29.svg/1280px-BBC_World_Service_2022_%28Boxed%29.svg.png",BBC Radio World Service
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/aks/bbc_world_service.m3u8
+
+#EXTINF:-1 group-title="Music&Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_Radio_Scotland_2022.svg/1280px-BBC_Radio_Scotland_2022.svg.png",BBC Radio Scotland
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/cfs/bbc_radio_scotland_fm.m3u8
+
+#EXTINF:-1 group-title="Music&Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/BBC_Radio_Orkney.png",BBC Radio Orkney
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/cfs/bbc_radio_orkney.m3u8
+
+#EXTINF:-1 group-title="Music&Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/BBC_Radio_Shetland.png",BBC Radio Shetland
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/cfs/bbc_radio_shetland.m3u8
+
+#EXTINF:-1 group-title="Music&Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/BBC_Radio_nan_G%C3%A0idheal_2022.svg/1280px-BBC_Radio_nan_G%C3%A0idheal_2022.svg.png",BBC Radio Nan Gàidheal
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/cfs/bbc_radio_nan_gaidheal.m3u8
+
+#EXTINF:-1 group-title="Music&Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/BBC_Radio_Ulster_2022.svg/1280px-BBC_Radio_Ulster_2022.svg.png",BBC Radio Ulster
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/aks/bbc_radio_ulster.m3u8
+
+#EXTINF:-1 group-title="Music&Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/BBC_Radio_Foyle_2022.svg/1280px-BBC_Radio_Foyle_2022.svg.png",BBC Radio Foyle
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/aks/bbc_radio_foyle.m3u8
+
+#EXTINF:-1 group-title="Music&Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/BBC_Radio_Wales_2022.svg/1280px-BBC_Radio_Wales_2022.svg.png",BBC Radio Wales
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/aks/bbc_radio_wales_fm.m3u8
+
+#EXTINF:-1 group-title="Music&Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Radio_Cymru_2022.svg/1280px-BBC_Radio_Cymru_2022.svg.png",BBC Radio Cymru
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/cfs/bbc_radio_cymru.m3u8
+
+#EXTINF:-1 group-title="Music&Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/BBC_Radio_Cymru_2_2022.svg/1280px-BBC_Radio_Cymru_2_2022.svg.png",BBC Radio Cymru 2
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/aks/bbc_radio_cymru_2.m3u8
+
+
+<=================================================== Entertainment=========================================>
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/B53tBWkh/logoizaamovie.png",IZAAMOVIE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.10
+http://49.0.64.96:8007/IZAA
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/MxZHkhvV/logo-universal.png",Universal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.10
+http://49.0.64.96:8007/H-Channel
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/7xf3sR9Z/logo-pluse.png",Pluse Channel 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.10
+http://49.0.64.96:8007/PLUSE
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/wFSYqgpG/logo-fuckseries.png",FuckIDSeries
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.10
+http://49.0.64.96:8007/SERIES
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/nqWvLRYF/logo-fuckmovie.png",FuckIDMovie
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.10
+http://49.0.64.96:8007/PING
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/zv40P0s/logo-amazing.png",AMAZING
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.10
+http://49.0.64.96:8007/AMAZING
+
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.fileinw.com/postor/20240429213309FWMOV.jpg",FWMOV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.10
+https://freelive2.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDI1IDEyOjEyOjQ2IFBNJmhhc2hfdmFsdWU9N3gvMjA4RWNONFBZb3BrbDQvYUFLQT09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.fileinw.com/postor/20240429213326FWSOV.jpg",FWSOV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.10
+https://freelive2.inwstream.com:1936/freelive-edge/fwsov_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xOC8yMDI1IDg6Mzg6NDMgQU0maGFzaF92YWx1ZT1VaG0yclIvdkt4eUwzU0I2MkxLTEtnPT0mdmFsaWRtaW51dGVzPTI=
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Entertainment" tvg-logo="https://img5.pic.in.th/file/secure-sv1/Asian-Hits.png",Asian-Hits
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dac6cbd9d17a451bb76386f52469e0e9:2e2ac52cadf843459915eaa1a9b95e48
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/101/101.mpd
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/109.png",MONO PLUS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=072eeb02f6744f838fcc8f0ef36b312e:b797c12f2dd64728aae23fd3c8ef275c
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/109/109.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Entertainment" tvg-logo="https://img2.pic.in.th/pic/logo_mono29plus0e509b4a491c24bb9672677f67da122f.png",MONO29 PLUS+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=072eeb02f6744f838fcc8f0ef36b312e:b797c12f2dd64728aae23fd3c8ef275c
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/109/109.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1703786799.png" group-title="Entertainment",Cinemax
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f48caba466394e93b50780f21798787a:9a074a10db4342e7937076b3e52f6029
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/107/107.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Entertainment" tvg-logo="https://dookeela.live/uploads/1703686191.png",HBO HD (TH)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9c5735afb4fd402580360aed8364469c:128d55d9ac2b47ad85f86b5d08320179
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/103/103.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1703786305.png" group-title="Entertainment", HBO Signature (TH)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0db89bae851440a5994f5893ad480494:d88ef77eaedf4451a65be2e0bf6eabde
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/104/104.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1703786599.png"group-title="Entertainment", HBO Hits (TH)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7c04b8e7aa524afea879b2ed1aef8242:91e72b75fcb94c3bb36cceb741afd621
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/105/105.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1703786776.png" group-title="Entertainment", HBO Family (TH)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=07b138f30ad3441ca5a2f476e550af25:826ee4deef4b45cfafd5f79a591b15c6
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
+
+#EXTINF:-1  group-title="Entertainment" tvg-name="TrueFilmAsia" tvg-logo="https://dookeela.live/uploads/1703832225.png",WARNER TV
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truewb.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png" group-title="Entertainment",Food Network (TH)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d4b9d55410d24905920e57664a047116:d821110f280f4545ae0227d5784af199
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/205/205.mpd
+
+
+#EXTINF:-1  group-title="Entertainment" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuqopcRSIQJ_OIefz8Dj-a-Z2rPuEkXS1F7Q&s",Khongdee
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truexzyte.m3u8
+
+#EXTINF:-1  group-title="Entertainment" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/46f1c480-e599-11ed-96ec-4d05b9e2ca86_webp_original.png",True Thaifilm
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truethaifilm.m3u8
+
+#EXTINF:-1  group-title="Entertainment" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43f28e40-e599-11ed-844f-795506bf0bf9_webp_original.webp",True Film 1HD
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truefilm1.m3u8
+
+#EXTINF:-1  group-title="Entertainment" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43ffada0-e599-11ed-abcb-c792e696f885_webp_original.webp",True Film 2HD
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truefilm2.m3u8
+
+#EXTINF:-1  group-title="Entertainment" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c8f249a0-b44c-11ee-bbdb-077300b4f5a1_webp_original.webp",True Asian More
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueasiamove.m3u8
+
+#EXTINF:-1  group-title="Entertainment" tvg-name="TrueFilmAsia" tvg-logo="https://img5.pic.in.th/file/secure-sv1/434696d0-e599-11ed-b26c-6b89d082d464_webp_original.png",True Film Asia
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truefilmasia.m3u8
+
+
+#EXTINF:-1   group-title="Entertainment" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cccc0160-b44c-11ee-9f05-591527f02603_webp_original.webp",True Movie Hits
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truemoviehit.m3u8
+
+#EXTINF:-1  group-title="Entertainment" tvg-logo="http://www.channel8thailand.com/img/18378709_1492777084098686_554998105_o.png",Channel 8 THAILAND
+https://cdn-th-vip.livestreaming.in.th/ch8/ch8/playlist.m3u8
+
+#EXTINF:-1  group-title="Entertainment" tvg-logo="https://cool-channel.com/wp-content/uploads/2022/11/Logo-Final-03-10-59-768x512.png",Cool Channel
+https://live.cool-channel.com:443/cool/live-720P.m3u8
+
+
+#EXTINF:1  group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/MOVIE/refs/heads/main/IMG_20250213_031155.png",อีสานทีวี
+https://psiiptv-b.sky-cdn.com/ttd20-playlist/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1  group-title="Entertainment" tvg-logo="https://cablechannel37.net/assets/images/main/logos/cable_channel_37.png",Cble Channel 37
+http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
+
+#EXTINF:-1   group-title="Entertainment" tvg-logo="https://d198sf0nbhx18q.cloudfront.net/web/images/logo/logo.png",VIPA
+http://thaipbs-ophctt.cdn.byteark.com/0db95d655989436dbd571dcb8f70d98f/ap-southeast-1/6075037809001/profile_1/chunklist.m3u8
+
+#EXTINF:-1  group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/MOVIE/refs/heads/main/IMG_20250212_224355.png",Siamnews
+https://live1.thaitvstream.com/play/siamnewstv/index.m3u8
+
+#EXTINF:-1  group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/MOVIE/refs/heads/main/IMG_20250212_224349.png",Thainews
+https://live.thaitvstream.com/play/thainews/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/Frv7h5L/logo.png", บางกอก channel
+#https://live1.thaitvstream.com/play/gochannel/index.m3u8
+
+
+#EXTINF:-1  group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/MOVIE/refs/heads/main/IMG_20250212_221636.png",Oh Muang Lao TV
+https://livefta.malimarcdn.com/ftaedge00/ohmuanglao.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="tlc.uk" tvg-name="TLC HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tlc-uk.png?raw=true" group-title="Entertainment",TLC HD
+http://panel.sulu1.cc:2052/travis1/travis1/728
+#EXTINF:-1 tvg-id="tlc.uk" tvg-name="TLC FHD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tlc-uk.png?raw=true" group-title="Entertainment",TLC FHD
+http://panel.sulu1.cc:2052/travis1/travis1/735
+#EXTINF:-1 tvg-id="foodnetwork.uk" tvg-name="Food Network HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/food-network-uk.png?raw=true" group-title="Entertainment",Food Network HD
+http://panel.sulu1.cc:2052/travis1/travis1/744
+#EXTINF:-1 tvg-id="foodnetwork.uk" tvg-name="Food Network FHD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/food-network-uk.png?raw=true" group-title="Entertainment",Food Network FHD
+http://panel.sulu1.cc:2052/travis1/travis1/3513
+
+#EXTINF:-1 tvg-id="I272.46762.gracenote.com" tvg-name="Logo" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/logo-us.png?raw=true" group-title="Entertainment",Logo
+http://panel.sulu1.cc:2052/travis1/travis1/88682
+#EXTINF:-1 tvg-id="I160.10986.gracenote.com" tvg-name="MTV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-us.png?raw=true" group-title="Entertainment",MTV
+http://panel.sulu1.cc:2052/travis1/travis1/88683
+#EXTINF:-1 tvg-id="I279.70387.gracenote.com" tvg-name="Oprah Winfrey Network" tvg-logo="http://www.tmsimg.com/assets/s70387_ll_h3_aa.png" group-title="Entertainment",Oprah Winfrey Network
+http://panel.sulu1.cc:2052/travis1/travis1/88684
+#EXTINF:-1 tvg-id="I274.15807.gracenote.com" tvg-name="Ovation" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ovation-us.png?raw=true" group-title="Entertainment",Ovation
+http://panel.sulu1.cc:2052/travis1/travis1/88685
+#EXTINF:-1 tvg-id="I3.157315.schedulesdirect.org" tvg-name="Oxygen True Crime" tvg-logo="http://www.tmsimg.com/assets/s70522_h3_aa.png" group-title="Entertainment",Oxygen True Crime
+http://panel.sulu1.cc:2052/travis1/travis1/88686
+#EXTINF:-1 tvg-id="I241.59186.gracenote.com" tvg-name="Paramount Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/paramount-network-us.png?raw=true" group-title="Entertainment",Paramount Network
+http://panel.sulu1.cc:2052/travis1/travis1/88687
+#EXTINF:-1 tvg-id="I238.52199.gracenote.com" tvg-name="Reelz" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/reelz-us.png?raw=true" group-title="Entertainment",Reelz
+http://panel.sulu1.cc:2052/travis1/travis1/88688
+#EXTINF:-1 tvg-id="I345.63717.gracenote.com" tvg-name="RFD TV" tvg-logo="http://www.tmsimg.com/assets/s25148_ll_h3_aa.png" group-title="Entertainment",RFD TV
+http://panel.sulu1.cc:2052/travis1/travis1/88689
+#EXTINF:-1 tvg-id="Start.TV.us" tvg-name="Start TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/start-tv-us.png?raw=true" group-title="Entertainment",Start TV
+http://panel.sulu1.cc:2052/travis1/travis1/88690
+#EXTINF:-1 tvg-id="I244.11097.gracenote.com" tvg-name="SYFY" tvg-logo="http://www.tmsimg.com/assets/s11097_ll_h3_ae.png" group-title="Entertainment",SYFY
+http://panel.sulu1.cc:2052/travis1/travis1/88691
+#EXTINF:-1 tvg-id="I247.58515.gracenote.com" tvg-name="TBS" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tbs-us.png?raw=true" group-title="Entertainment",TBS
+http://panel.sulu1.cc:2052/travis1/travis1/88692
+#EXTINF:-1 tvg-id="I342.132272.gracenote.com" tvg-name="The Grio" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/The_Grio.svg/revision/latest/scale-to-width-down/250?cb=20230509144537" group-title="Entertainment",The Grio
+http://panel.sulu1.cc:2052/travis1/travis1/88693
+#EXTINF:-1 tvg-id="COWBOYH" tvg-name="The Cowboy Channel" tvg-logo="http://www.tmsimg.com/assets/s10188_h3_aa.png" group-title="Entertainment",The Cowboy Channel
+http://panel.sulu1.cc:2052/travis1/travis1/88694
+#EXTINF:-1 tvg-id="I52.11158.gracenote.com" tvg-name="TLC" tvg-logo="http://www.tmsimg.com/assets/s11158_ll_h3_ac.png" group-title="Entertainment",TLC
+http://panel.sulu1.cc:2052/travis1/travis1/88695
+#EXTINF:-1 tvg-id="I245.11164.gracenote.com" tvg-name="TNT" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tnt-us.png?raw=true" group-title="Entertainment",TNT
+http://panel.sulu1.cc:2052/travis1/travis1/88696
+#EXTINF:-1 tvg-id="trutv.us" tvg-name="truTV" tvg-logo="http://www.tmsimg.com/assets/s10153_ll_h3_ad.png" group-title="Entertainment",truTV
+http://panel.sulu1.cc:2052/travis1/travis1/88697
+#EXTINF:-1 tvg-id="I106.16123.gracenote.com" tvg-name="TV Land" tvg-logo="http://www.tmsimg.com/assets/s16123_ll_h3_aa.png" group-title="Entertainment",TV Land
+http://panel.sulu1.cc:2052/travis1/travis1/88698
+#EXTINF:-1 tvg-id="I328.61960.gracenote.com" tvg-name="TV One" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ae/TV_One_logo.svg/revision/latest/scale-to-width-down/250?cb=20180813191430" group-title="Entertainment",TV One
+http://panel.sulu1.cc:2052/travis1/travis1/88699
+#EXTINF:-1 tvg-id="I338.44940.gracenote.com" tvg-name="UP TV" tvg-logo="http://www.tmsimg.com/assets/s44940_ll_h3_ac.png" group-title="Entertainment",UP TV
+http://panel.sulu1.cc:2052/travis1/travis1/88700
+#EXTINF:-1 tvg-id="I242.11207.gracenote.com" tvg-name="USA Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true" group-title="Entertainment",USA Network
+http://panel.sulu1.cc:2052/travis1/travis1/88701
+#EXTINF:-1 tvg-id="I335.11218.gracenote.com" tvg-name="VH1" tvg-logo="http://www.tmsimg.com/assets/s11218_ll_h3_aa.png" group-title="Entertainment",VH1
+http://panel.sulu1.cc:2052/travis1/travis1/88702
+#EXTINF:-1 tvg-id="I271.18822.gracenote.com" tvg-name="Vice" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/vice-us.png?raw=true" group-title="Entertainment",Vice
+http://panel.sulu1.cc:2052/travis1/travis1/88703
+#EXTINF:-1 tvg-id="" tvg-name="◉ DOCUMENTARY CHANNELS ◉" tvg-logo="https://media.gettyimages.com/id/692908240/video/4k-highly-detailed-flag-of-the-united-states-of-america-loopable.jpg?s=640x640&k=20&c=BdUv3-jQdPe1StbHCN23y_pMja2m_EbvDVilbPGfTbs=" group-title="Entertainment",◉ DOCUMENTARY CHANNELS ◉
+http://panel.sulu1.cc:2052/travis1/travis1/88704
+#EXTINF:-1 tvg-id="I287.18284.gracenote.com" tvg-name="American Heroes Channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/american-heroes-channel-us.png?raw=true" group-title="Entertainment",American Heroes Channel
+http://panel.sulu1.cc:2052/travis1/travis1/88705
+#EXTINF:-1 tvg-id="I282.16331.gracenote.com" tvg-name="Animal Planet" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/animal-planet-us.png?raw=true" group-title="Entertainment",Animal Planet
+http://panel.sulu1.cc:2052/travis1/travis1/88706
+#EXTINF:-1 tvg-id="awe.us" tvg-name="AWE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/awe-us.png?raw=true" group-title="Entertainment",AWE
+http://panel.sulu1.cc:2052/travis1/travis1/88707
+#EXTINF:-1 tvg-id="AWE.Plus.distro" tvg-name="AWE Plus" tvg-logo="https://www.awe.plus/images/logos/plus/AWE-Plus.jpg" group-title="Entertainment",AWE Plus
+http://panel.sulu1.cc:2052/travis1/travis1/88708
+#EXTINF:-1 tvg-id="I232.30156.gracenote.com" tvg-name="Cooking Channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cooking-channel-us.png?raw=true" group-title="Entertainment",Cooking Channel
+http://panel.sulu1.cc:2052/travis1/travis1/88709
+#EXTINF:-1 tvg-id="I571.61469.gracenote.com" tvg-name="Crime & Investigation Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/crime-and-investigation-us.png?raw=true" group-title="Entertainment",Crime & Investigation Network
+http://panel.sulu1.cc:2052/travis1/travis1/88710
+#EXTINF:-1 tvg-id="I286.16617.gracenote.com" tvg-name="Destination America" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/destination-america-us.png?raw=true" group-title="Entertainment",Destination America
+http://panel.sulu1.cc:2052/travis1/travis1/88711
+#EXTINF:-1 tvg-id="I278.11150.gracenote.com" tvg-name="Discovery Channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-channel-icon-us.png?raw=true" group-title="Entertainment",Discovery Channel
+http://panel.sulu1.cc:2052/travis1/travis1/88712
+#EXTINF:-1 tvg-id="I294.16618.gracenote.com" tvg-name="Discovery Family" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-family-us.png?raw=true" group-title="Entertainment",Discovery Family
+http://panel.sulu1.cc:2052/travis1/travis1/88713
+#EXTINF:-1 tvg-id="I261.16125.gracenote.com" tvg-name="Discovery Life" tvg-logo="http://www.tmsimg.com/assets/s16125_ll_h3_ac.png" group-title="Entertainment",Discovery Life
+http://panel.sulu1.cc:2052/travis1/travis1/88714
+#EXTINF:-1 tvg-id="I562.82446.gracenote.com" tvg-name="Dog TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/dog-tv-us.png?raw=true" group-title="Entertainment",Dog TV
+http://panel.sulu1.cc:2052/travis1/travis1/88715
+#EXTINF:-1 tvg-id="I231.50747.gracenote.com" tvg-name="Food Network" tvg-logo="http://www.tmsimg.com/assets/s12574_ll_h3_ab.png" group-title="Entertainment",Food Network
+http://panel.sulu1.cc:2052/travis1/travis1/88716
+#EXTINF:-1 tvg-id="I229.14902.gracenote.com" tvg-name="HGTV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hgtv-us.png?raw=true" group-title="Entertainment",HGTV
+http://panel.sulu1.cc:2052/travis1/travis1/88717
+#EXTINF:-1 tvg-id="I269.14771.gracenote.com" tvg-name="History" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/history-channel-us.png?raw=true" group-title="Entertainment",History
+http://panel.sulu1.cc:2052/travis1/travis1/88718
+#EXTINF:-1 tvg-id="Investigation.Discovery.USA.-.Eastern.us" tvg-name="Investigation Discovery" tvg-logo="http://www.tmsimg.com/assets/s16615_ll_h3_ad.png" group-title="Entertainment",Investigation Discovery
+http://panel.sulu1.cc:2052/travis1/travis1/88719
+#EXTINF:-1 tvg-id="Law.&.Crime.distro" tvg-name="Law & Crime" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/law-and-crime-network-us.png?raw=true" group-title="Entertainment",Law & Crime
+http://panel.sulu1.cc:2052/travis1/travis1/88720
+#EXTINF:-1 tvg-id="I230.18544.gracenote.com" tvg-name="Magnolia Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/magnolia-network-us.png?raw=true" group-title="Entertainment",Magnolia Network
+http://panel.sulu1.cc:2052/travis1/travis1/88721
+#EXTINF:-1 tvg-id="militaryhistory.us" tvg-name="Military History" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/military-history-us.png?raw=true" group-title="Entertainment",Military History
+http://panel.sulu1.cc:2052/travis1/travis1/88722
+#EXTINF:-1 tvg-id="I3.157315.schedulesdirect.org" tvg-name="MotorTrend" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/motor-trend-us.png?raw=true" group-title="Entertainment",MotorTrend
+http://panel.sulu1.cc:2052/travis1/travis1/88723
+#EXTINF:-1 tvg-id="I276.49438.gracenote.com" tvg-name="National Geographic" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/national-geographic-us.png?raw=true" group-title="Entertainment",National Geographic
+http://panel.sulu1.cc:2052/travis1/travis1/88724
+#EXTINF:-1 tvg-id="I283.66804.gracenote.com" tvg-name="Nat Geo Wild" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nat-geo-wild-us.png?raw=true" group-title="Entertainment",Nat Geo Wild
+http://panel.sulu1.cc:2052/travis1/travis1/88725
+#EXTINF:-1 tvg-id="American.Crimes.us" tvg-name="NBC American Crimes" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/D10ACB25-D8D4-4445-9D47-30195BD2DE7E/3-1x1.png/900" group-title="Entertainment",NBC American Crimes
+http://panel.sulu1.cc:2052/travis1/travis1/88726
+#EXTINF:-1 tvg-id="I606.14776.gracenote.com" tvg-name="Outdoor Channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/outdoor-channel-us.png?raw=true" group-title="Entertainment",Outdoor Channel
+http://panel.sulu1.cc:2052/travis1/travis1/88727
+#EXTINF:-1 tvg-id="I390.80651.gracenote.com" tvg-name="Outside Television" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/outside-tv-us.png?raw=true" group-title="Entertainment",Outside Television
+http://panel.sulu1.cc:2052/travis1/travis1/88728
+#EXTINF:-1 tvg-id="SCNTV" tvg-name="Scientology Network" tvg-logo="http://www.tmsimg.com/assets/s102490_ll_h3_aa.png" group-title="Entertainment",Scientology Network
+http://panel.sulu1.cc:2052/travis1/travis1/88729
+#EXTINF:-1 tvg-id="I570.58532.gracenote.com" tvg-name="Smithsonian Channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/smithsonian-channel-us.png?raw=true" group-title="Entertainment",Smithsonian Channel
+http://panel.sulu1.cc:2052/travis1/travis1/88730
+#EXTINF:-1 tvg-id="I235.107076.gracenote.com" tvg-name="Tastemade" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tastemade-us.png?raw=true" group-title="Entertainment",Tastemade
+http://panel.sulu1.cc:2052/travis1/travis1/88731
+#EXTINF:-1 tvg-id="travelchannel.us" tvg-name="Travel Channel" tvg-logo="http://www.tmsimg.com/assets/s110660_ll_h3_ac.png" group-title="Entertainment",Travel Channel
+http://panel.sulu1.cc:2052/travis1/travis1/88732
+#EXTINF:-1 tvg-id="" tvg-name="◉ MOVIE CHANNELS ◉" tvg-logo="https://media.gettyimages.com/id/692908240/video/4k-highly-detailed-flag-of-the-united-states-of-america-loopable.jpg?s=640x640&k=20&c=BdUv3-jQdPe1StbHCN23y_pMja2m_EbvDVilbPGfTbs=" group-title="Entertainment",◉ MOVIE CHANNELS ◉
+http://panel.sulu1.cc:2052/travis1/travis1/88733
+#EXTINF:-1 tvg-id="I520.59961.gracenote.com" tvg-name="5 StarMAX" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-5-starmax-us.png?raw=true" group-title="Entertainment",5 StarMAX
+http://panel.sulu1.cc:2052/travis1/travis1/88734
+#EXTINF:-1 tvg-id="I1824.18433.gracenote.com" tvg-name="ActionMAX" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-actionmax-us.png?raw=true" group-title="Entertainment",ActionMAX
+http://panel.sulu1.cc:2052/travis1/travis1/88735
+#EXTINF:-1 tvg-id="I515.10120.gracenote.com" tvg-name="CineMAX" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-us.png?raw=true" group-title="Entertainment",CineMAX
+http://panel.sulu1.cc:2052/travis1/travis1/88736
+#EXTINF:-1 tvg-id="I248.58574.gracenote.com" tvg-name="FX" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fx-us.png?raw=true" group-title="Entertainment",FX
+http://panel.sulu1.cc:2052/travis1/travis1/88737
+#EXTINF:-1 tvg-id="I258.70253.gracenote.com" tvg-name="FXM" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fxm-movie-channel-us.png?raw=true" group-title="Entertainment",FXM
+http://panel.sulu1.cc:2052/travis1/travis1/88738
+#EXTINF:-1 tvg-id="I326.82892.gracenote.com" tvg-name="Great American Family" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/great-american-family-us.png?raw=true" group-title="Entertainment",Great American Family
+http://panel.sulu1.cc:2052/travis1/travis1/88739
+#EXTINF:-1 tvg-id="I312.11221.gracenote.com" tvg-name="Hallmark Channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-channel-us.png?raw=true" group-title="Entertainment",Hallmark Channel
+http://panel.sulu1.cc:2052/travis1/travis1/88740
+#EXTINF:-1 tvg-id="I565.46710.gracenote.com" tvg-name="Hallmark Movies & Mysteries" tvg-logo="http://www.tmsimg.com/assets/s61522_ll_h3_aa.png" group-title="Entertainment",Hallmark Movies & Mysteries
+http://panel.sulu1.cc:2052/travis1/travis1/88741
+#EXTINF:-1 tvg-id="I501.10240.gracenote.com" tvg-name="HBO" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hbo-us.png?raw=true" group-title="Entertainment",HBO
+http://panel.sulu1.cc:2052/travis1/travis1/88742
+#EXTINF:-1 tvg-id="I502.59368.gracenote.com" tvg-name="HBO 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hbo-2-us.png?raw=true" group-title="Entertainment",HBO 2
+http://panel.sulu1.cc:2052/travis1/travis1/88743
+#EXTINF:-1 tvg-id="I506.59839.gracenote.com" tvg-name="HBO Comedy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hbo-comedy-us.png?raw=true" group-title="Entertainment",HBO Comedy
+http://panel.sulu1.cc:2052/travis1/travis1/88744
+#EXTINF:-1 tvg-id="I507.16585.gracenote.com" tvg-name="HBO Family" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hbo-family-us.png?raw=true" group-title="Entertainment",HBO Family
+http://panel.sulu1.cc:2052/travis1/travis1/88745
+#EXTINF:-1 tvg-id="I503.59363.gracenote.com" tvg-name="HBO Signature" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hbo-signature-us.png?raw=true" group-title="Entertainment",HBO Signature
+http://panel.sulu1.cc:2052/travis1/travis1/88746
+#EXTINF:-1 tvg-id="I253.18480.gracenote.com" tvg-name="Lifetime Movie Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/lifetime-movie-network-us.png?raw=true" group-title="Entertainment",Lifetime Movie Network
+http://panel.sulu1.cc:2052/travis1/travis1/88747
+#EXTINF:-1 tvg-id="I558.65687.gracenote.com" tvg-name="MGM+" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mgm-plus-us.png?raw=true" group-title="Entertainment",MGM+
+http://panel.sulu1.cc:2052/travis1/travis1/88748
+#EXTINF:-1 tvg-id="I539.68409.gracenote.com" tvg-name="MGM+ Drive-in" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mgm-plus-drive-in-us.png?raw=true" group-title="Entertainment",MGM+ Drive-in
+http://panel.sulu1.cc:2052/travis1/travis1/88749
+#EXTINF:-1 tvg-id="I559.67929.gracenote.com" tvg-name="MGM+ Hits" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mgm-plus-hits-us.png?raw=true" group-title="Entertainment",MGM+ Hits
+http://panel.sulu1.cc:2052/travis1/travis1/88750
+#EXTINF:-1 tvg-id="I560.74073.gracenote.com" tvg-name="MGM+ Marquee" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mgm-plus-marquee-us.png?raw=true" group-title="Entertainment",MGM+ Marquee
+http://panel.sulu1.cc:2052/travis1/travis1/88751
+#EXTINF:-1 tvg-id="I517.10121.gracenote.com" tvg-name="MoreMAX" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-moremax-us.png?raw=true" group-title="Entertainment",MoreMAX
+http://panel.sulu1.cc:2052/travis1/travis1/88752
+#EXTINF:-1 tvg-id="I521.59963.gracenote.com" tvg-name="MovieMax" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-moviemax-us.png?raw=true" group-title="Entertainment",MovieMax
+http://panel.sulu1.cc:2052/travis1/travis1/88753
+#EXTINF:-1 tvg-id="OuterMax.east.us" tvg-name="OuterMax" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-outermax-us.png?raw=true" group-title="Entertainment",OuterMax
+http://panel.sulu1.cc:2052/travis1/travis1/88754
+#EXTINF:-1 tvg-id="ScreenPix.us" tvg-name="ScreenPix" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/screenpix-us.png?raw=true" group-title="Entertainment",ScreenPix
+http://panel.sulu1.cc:2052/travis1/travis1/88755
+#EXTINF:-1 tvg-id="ScreenPix.Voices.us" tvg-name="ScreenPix Voices" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/screenpix-voices-us.png?raw=true" group-title="Entertainment",ScreenPix Voices
+http://panel.sulu1.cc:2052/travis1/travis1/88756
+#EXTINF:-1 tvg-id="ScreenPix.Westerns.us" tvg-name="ScreenPix Westerns" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/screenpix-westerns-us.png?raw=true" group-title="Entertainment",ScreenPix Westerns
+http://panel.sulu1.cc:2052/travis1/travis1/88757
+#EXTINF:-1 tvg-id="I573.67454.gracenote.com" tvg-name="Shorts TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/shorts-tv-us.png?raw=true" group-title="Entertainment",Shorts TV
+http://panel.sulu1.cc:2052/travis1/travis1/88758
+#EXTINF:-1 tvg-id="I545.11115.gracenote.com" tvg-name="Showtime" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png?raw=true" group-title="Entertainment",Showtime
+http://panel.sulu1.cc:2052/travis1/travis1/88759
+#EXTINF:-1 tvg-id="Showtime.2.-.Eastern.us" tvg-name="Showtime 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true" group-title="Entertainment",Showtime 2
+http://panel.sulu1.cc:2052/travis1/travis1/88760
+#EXTINF:-1 tvg-id="I549.60947.gracenote.com" tvg-name="Showtime Extreme" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-extreme-us.png?raw=true" group-title="Entertainment",Showtime Extreme
+http://panel.sulu1.cc:2052/travis1/travis1/88761
+#EXTINF:-1 tvg-id="I552.103892.gracenote.com" tvg-name="Showtime Family Zone" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-family-zone-us.png?raw=true" group-title="Entertainment",Showtime Family Zone
+http://panel.sulu1.cc:2052/travis1/travis1/88762
+#EXTINF:-1 tvg-id="I551.68342.gracenote.com" tvg-name="Showtime Next" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-next-us.png?raw=true" group-title="Entertainment",Showtime Next
+http://panel.sulu1.cc:2052/travis1/travis1/88763
+#EXTINF:-1 tvg-id="I550.61001.gracenote.com" tvg-name="Showtime Showcase" tvg-logo="http://www.tmsimg.com/assets/s16153_h3_aa.png" group-title="Entertainment",Showtime Showcase
+http://panel.sulu1.cc:2052/travis1/travis1/88764
+#EXTINF:-1 tvg-id="I585.25272.gracenote.com" tvg-name="Showtime Women" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-women-us.png?raw=true" group-title="Entertainment",Showtime Women
+http://panel.sulu1.cc:2052/travis1/travis1/88765
+#EXTINF:-1 tvg-id="SHOXBET.-.Eastern.us" tvg-name="SHOxBET" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sho-bet-us.png?raw=true" group-title="Entertainment",SHOxBET
+http://panel.sulu1.cc:2052/travis1/travis1/88766
+#EXTINF:-1 tvg-id="I531.67236.gracenote.com" tvg-name="Starz Cinema" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-cinema-us.png?raw=true" group-title="Entertainment",Starz Cinema
+http://panel.sulu1.cc:2052/travis1/travis1/88767
+#EXTINF:-1 tvg-id="I528.57569.gracenote.com" tvg-name="Starz Comedy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-comedy-us.png?raw=true" group-title="Entertainment",Starz Comedy
+http://panel.sulu1.cc:2052/travis1/travis1/88768
+#EXTINF:-1 tvg-id="I529.16311.gracenote.com" tvg-name="Starz Edge" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-edge-us.png?raw=true" group-title="Entertainment",Starz Edge
+http://panel.sulu1.cc:2052/travis1/travis1/88769
+#EXTINF:-1 tvg-id="I535.10178.gracenote.com" tvg-name="Starz Encore" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-us.png?raw=true" group-title="Entertainment",Starz Encore
+http://panel.sulu1.cc:2052/travis1/travis1/88770
+
+
+
+
+
 #@###@@@@@@@@@@@##########@@#####@@@@@@@@@@@@@@@@@####@@@@@##@@@@@@@@@@@@
 
 #EXTINF:-1 xui-id="25519" tvg-id="" tvg-name="[FR*] Automoto" tvg-logo="http://streamsland.com:8080/images/5583ca2b913ffa4f94851234d79b6723.png" group-title="France Sport",[FR*] Automoto
