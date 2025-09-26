@@ -5100,9 +5100,10 @@ http://panel.sulu1.cc:2052/travis1/travis1/88757
 
 
 _________________________________________________________________''''_____
-#EXTM3U
+
 
 #EXTINF:-1, ##### PSL CRICKET #####
+
 http://skunkytv.live:80/play/live.php?mac=00:1A:79:5D:0F:E4&stream=689576&extension=ts&play_token=sIjS0IYJMR
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/aryfamily.png", PSL - A SPORTS HD
 http://skunkytv.live:80/play/live.php?mac=00:1A:79:5D:0F:E4&stream=689574&extension=ts&play_token=Pqizx1LgjR
@@ -5152,7 +5153,9 @@ http://skunkytv.live:80/play/live.php?mac=00:1A:79:5D:0F:E4&stream=807928&extens
 http://skunkytv.live:80/play/live.php?mac=00:1A:79:5D:0F:E4&stream=807930&extension=ts&play_token=SilXi7Bodg
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/skysport1.png", NZ - SKY SPORT 1 HD
 http://skunkytv.live:80/play/live.php?mac=00:1A:79:5D:0F:E4&stream=689432&extension=ts&play_token=28xvGJnET6
+
 #EXTINF:-1, ##### INDIA EU-TIME #####
+
 http://skunkytv.live:80/play/live.php?mac=00:1A:79:5D:0F:E4&stream=281249&extension=ts&play_token=koPAqFcwCk
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/starplus.png", IN - UTSAV PLUS
 http://skunkytv.live:80/play/live.php?mac=00:1A:79:5D:0F:E4&stream=281250&extension=ts&play_token=KWADrj7tVe
@@ -5214,7 +5217,9 @@ http://skunkytv.live:80/play/live.php?mac=00:1A:79:5D:0F:E4&stream=765266&extens
 http://skunkytv.live:80/play/live.php?mac=00:1A:79:5D:0F:E4&stream=765267&extension=ts&play_token=6huGSkwSh8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AAPKA-COLORS.png", IN - AAPKA COLORS HD USA
 http://skunkytv.live:80/play/live.php?mac=00:1A:79:5D:0F:E4&stream=765268&extension=ts&play_token=d7LVQprA9c
+
 #EXTINF:-1, ###### INDIA #####
+
 http://skunkytv.live:80/play/live.php?mac=00:1A:79:5D:0F:E4&stream=281276&extension=ts&play_token=QfxXc5233j
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/zeetvhd.png", IN - ZEE TV UHD
 http://skunkytv.live:80/play/live.php?mac=00:1A:79:5D:0F:E4&stream=281277&extension=ts&play_token=IQARsDWm5h
@@ -5592,7 +5597,9 @@ http://skunkytv.live:80/play/live.php?mac=00:1A:79:5D:0F:E4&stream=281444&extens
 http://skunkytv.live:80/play/live.php?mac=00:1A:79:5D:0F:E4&stream=281445&extension=ts&play_token=dSuWR0guRd
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ZEE-YUVA.jpg", IN - ZEE YUVA
 http://skunkytv.live:80/play/live.php?mac=00:1A:79:5D:0F:E4&stream=281446&extension=ts&play_token=51UJzTsPt5
+
 #EXTINF:-1, ##### PAKISTAN #####
+
 http://skunkytv.live:80/play/live.php?mac=00:1A:79:5D:0F:E4&stream=281449&extension=ts&play_token=sXbjzngEy7
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/PUBLIC-NEWS.jpg", PAK - PUBLIC NEWS
 http://skunkytv.live:80/play/live.php?mac=00:1A:79:5D:0F:E4&stream=281450&extension=ts&play_token=RQiDkMWnO5
@@ -5684,7 +5691,9 @@ http://skunkytv.live:80/play/live.php?mac=00:1A:79:5D:0F:E4&stream=281556&extens
 http://skunkytv.live:80/play/live.php?mac=00:1A:79:5D:0F:E4&stream=281558&extension=ts&play_token=HwGzYdoyMY
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/HYDER-TV.jpg", PAK - HYDER TV
 http://skunkytv.live:80/play/live.php?mac=00:1A:79:5D:0F:E4&stream=281560&extension=ts&play_token=ssORkEsSGW
+
 #EXTINF:-1, ##### TAMIL #####
+
 http://skunkytv.live:80/play/live.php?mac=00:1A:79:5D:0F:E4&stream=281561&extension=ts&play_token=MQH1gFX9JE
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ktvhd.jpg", TAM - KTV UHD
 http://skunkytv.live:80/play/live.php?mac=00:1A:79:5D:0F:E4&stream=281562&extension=ts&play_token=xSwrby48dE
@@ -5818,63 +5827,67 @@ http://skunkytv.live:80/play/live.php?mac=00:1A:79:5D:0F:E4&stream=834522&extens
 http://skunkytv.live:80/play/live.php?mac=00:1A:79:5D:0F:E4&stream=834521&extension=ts&play_token=PWiSOmbezm
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/WIN-NEWS.jpeg", TAM - WIN NEWS
 http://skunkytv.live:80/play/live.php?mac=00:1A:79:5D:0F:E4&stream=281622&extension=ts&play_token=UByJCXhayh
+
 #EXTINF:-1, ##### INDIA SPORTS #####
+
 http://skunkytv.live:80/play/live.php?mac=00:1A:79:5D:0F:E4&stream=281624&extension=ts&play_token=lRppDu5ONr
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/D-SPORTS-HD.jpg", SPORTS - D SPORTS UHD
+#EXTINF:-1,tvg-logo="http://103.176.90.118/picons-dino/logos/D-SPORTS-HD.jpg", SPORTS - D SPORTS UHD
 http://skunkytv.live:80/play/live.php?mac=00:1A:79:5D:0F:E4&stream=281625&extension=ts&play_token=0YK1ZBfGpn
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ddsports.jpg", SPORTS - DD SPORTS
+#EXTINF:-1,tvg-logo="http://103.176.90.118/picons-dino/logos/ddsports.jpg", SPORTS - DD SPORTS
 http://skunkytv.live:80/play/live.php?mac=00:1A:79:5D:0F:E4&stream=281626&extension=ts&play_token=sHYVx5TTEC
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/SONY-SIX.png", SPORTS - SONY SIX UHD
+#EXTINF:-1,tvg-logo="http://103.176.90.118/picons-dino/logos/SONY-SIX.png", SPORTS - SONY SIX UHD
 http://skunkytv.live:80/play/live.php?mac=00:1A:79:5D:0F:E4&stream=281628&extension=ts&play_token=3VGmlvv88r
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/SONY-SIX.png", SPORTS - SONY SIX (Back-UP)
+#EXTINF:-1,tvg-logo="http://103.176.90.118/picons-dino/logos/SONY-SIX.png", SPORTS - SONY SIX (Back-UP)
 http://skunkytv.live:80/play/live.php?mac=00:1A:79:5D:0F:E4&stream=281629&extension=ts&play_token=l9TrleWUPS
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SPORTS-18-WCUP.png", SPORTS - SPORTS 18 FHD
+#EXTINF:-1,tvg-logo="http://103.176.90.118/picons/logos/SPORTS-18-WCUP.png", SPORTS - SPORTS 18 FHD
 http://skunkytv.live:80/play/live.php?mac=00:1A:79:5D:0F:E4&stream=970619&extension=ts&play_token=iDosriE5zp
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/SPORTS-18.png", SPORTS - SPORTS 18 2 FHD
+#EXTINF:-1,tvg-logo="http://51.158.145.100/picons/logos/logos/SPORTS-18.png", SPORTS - SPORTS 18 2 FHD
 http://skunkytv.live:80/play/live.php?mac=00:1A:79:5D:0F:E4&stream=1170609&extension=ts&play_token=mX1GrE7tdN
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/SPORTS-18.png", SPORTS - SPORTS 18 3 FHD
+#EXTINF:-1,tvg-logo="http://51.158.145.100/picons/logos/logos/SPORTS-18.png", SPORTS - SPORTS 18 3 FHD
 http://skunkytv.live:80/play/live.php?mac=00:1A:79:5D:0F:E4&stream=1170608&extension=ts&play_token=0x8cuyK9hK
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STAR-SPORTS-1-HD.jpg", SPORTS - STAR SPORTS 1 ENGLISH UHD
+#EXTINF:-1,tvg-logo="http://103.176.90.118/picons-dino/logos/STAR-SPORTS-1-HD.jpg", SPORTS - STAR SPORTS 1 ENGLISH UHD
 http://skunkytv.live:80/play/live.php?mac=00:1A:79:5D:0F:E4&stream=281630&extension=ts&play_token=vTpBt5MKlS
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/STAR-SPORTS-1-HINDI-HD.jpg", SPORTS - STAR SPORTS HINDI 1 FHD
+#EXTINF:-1,tvg-logo="http://103.176.90.118/picons/logos/STAR-SPORTS-1-HINDI-HD.jpg", SPORTS - STAR SPORTS HINDI 1 FHD
 http://skunkytv.live:80/play/live.php?mac=00:1A:79:5D:0F:E4&stream=843539&extension=ts&play_token=3XcrSHkS9U
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STAR-SPORTS-1-HINDI-HD.jpg", SPORTS - STAR SPORTS 1 HINDI UHD
+#EXTINF:-1,tvg-logo="http://103.176.90.118/picons-dino/logos/STAR-SPORTS-1-HINDI-HD.jpg", SPORTS - STAR SPORTS 1 HINDI UHD
 http://skunkytv.live:80/play/live.php?mac=00:1A:79:5D:0F:E4&stream=281631&extension=ts&play_token=4ZdqGV1xT1
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STAR-SPORTS-TAMIL.jpg", SPORTS - STAR SPORTS TAMIL
+#EXTINF:-1,tvg-logo="http://103.176.90.118/picons-dino/logos/STAR-SPORTS-TAMIL.jpg", SPORTS - STAR SPORTS TAMIL
 http://skunkytv.live:80/play/live.php?mac=00:1A:79:5D:0F:E4&stream=281637&extension=ts&play_token=cttwPJLLkV
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/STAR-SPORTS-1-HD.png", SPORTS - STAR SPORTS 1 FHD
+#EXTINF:-1,tvg-logo="http://103.176.90.118/picons/logos/STAR-SPORTS-1-HD.png", SPORTS - STAR SPORTS 1 FHD
 http://skunkytv.live:80/play/live.php?mac=00:1A:79:5D:0F:E4&stream=843537&extension=ts&play_token=GwiHQnVAjs
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/STAR-SPORTS-2-HD.jpeg", SPORTS - STAR SPORTS 2 FHD
+#EXTINF:-1,tvg-logo="http://103.176.90.118/picons/logos/STAR-SPORTS-2-HD.jpeg", SPORTS - STAR SPORTS 2 FHD
 http://skunkytv.live:80/play/live.php?mac=00:1A:79:5D:0F:E4&stream=843538&extension=ts&play_token=QEeHgUqJ6S
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STAR-SPORTS-2-HD.jpeg", SPORTS - STAR SPORTS 2 UHD
+#EXTINF:-1,tvg-logo="http://103.176.90.118/picons-dino/logos/STAR-SPORTS-2-HD.jpeg", SPORTS - STAR SPORTS 2 UHD
 http://skunkytv.live:80/play/live.php?mac=00:1A:79:5D:0F:E4&stream=281632&extension=ts&play_token=mlfooquYYi
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STAR-SPORTS-3.jpeg", SPORTS - STAR SPORTS 3
+#EXTINF:-1,tvg-logo="http://103.176.90.118/picons-dino/logos/STAR-SPORTS-3.jpeg", SPORTS - STAR SPORTS 3
 http://skunkytv.live:80/play/live.php?mac=00:1A:79:5D:0F:E4&stream=281633&extension=ts&play_token=AesfqI2LMg
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/INDIA_PAKISTAN/STAR-SPORTSSELECT-1.png", SPORTS - STAR SPORTS SELECT 1 FHD
+#EXTINF:-1,tvg-logo="http://103.176.90.118/picons/logos/INDIA_PAKISTAN/STAR-SPORTSSELECT-1.png", SPORTS - STAR SPORTS SELECT 1 FHD
 http://skunkytv.live:80/play/live.php?mac=00:1A:79:5D:0F:E4&stream=843540&extension=ts&play_token=eilHf3IaJd
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STAR-SPORTS-SELECT-1-HD.jpg", SPORTS - STAR SPORTS SELECT 1 UHD
+#EXTINF:-1,tvg-logo="http://103.176.90.118/picons-dino/logos/STAR-SPORTS-SELECT-1-HD.jpg", SPORTS - STAR SPORTS SELECT 1 UHD
 http://skunkytv.live:80/play/live.php?mac=00:1A:79:5D:0F:E4&stream=281635&extension=ts&play_token=4ak4ZquVO4
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/INDIA_PAKISTAN/STAR-SPORTSSELECT-2.png", SPORTS - STAR SPORTS SELECT 2 FHD
+#EXTINF:-1,tvg-logo="http://103.176.90.118/picons/logos/INDIA_PAKISTAN/STAR-SPORTSSELECT-2.png", SPORTS - STAR SPORTS SELECT 2 FHD
 http://skunkytv.live:80/play/live.php?mac=00:1A:79:5D:0F:E4&stream=843541&extension=ts&play_token=RW1RPrLUvF
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STAR-SPORTS-SELECT-2-HD.jpg", SPORTS - STAR SPORTS SELECT 2 UHD
+#EXTINF:-1,tvg-logo="http://103.176.90.118/picons-dino/logos/STAR-SPORTS-SELECT-2-HD.jpg", SPORTS - STAR SPORTS SELECT 2 UHD
 http://skunkytv.live:80/play/live.php?mac=00:1A:79:5D:0F:E4&stream=281636&extension=ts&play_token=dn1Z8FpArn
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STAR-SPORTS-FIRST.png", SPORTS - STAR SPORTS FIRST
+#EXTINF:-1,tvg-logo="http://103.176.90.118/picons-dino/logos/STAR-SPORTS-FIRST.png", SPORTS - STAR SPORTS FIRST
 http://skunkytv.live:80/play/live.php?mac=00:1A:79:5D:0F:E4&stream=281634&extension=ts&play_token=T7g0zU4cJD
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/TEN-1-HD.png", SPORTS - TEN 1 UHD
+#EXTINF:-1,tvg-logo="http://103.176.90.118/picons-dino/logos/TEN-1-HD.png", SPORTS - TEN 1 UHD
 http://skunkytv.live:80/play/live.php?mac=00:1A:79:5D:0F:E4&stream=281638&extension=ts&play_token=Np7pgpAC6L
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/INDIA_PAKISTAN/Sony_Ten_1_HD.png", SPORTS - TEN 1 FHD
+#EXTINF:-1,tvg-logo="http://103.176.90.118/picons/logos/INDIA_PAKISTAN/Sony_Ten_1_HD.png", SPORTS - TEN 1 FHD
 http://skunkytv.live:80/play/live.php?mac=00:1A:79:5D:0F:E4&stream=843533&extension=ts&play_token=bP4rewwI5c
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/TEN-2-HD.png", SPORTS - TEN 2 UHD
+#EXTINF:-1,tvg-logo="http://103.176.90.118/picons-dino/logos/TEN-2-HD.png", SPORTS - TEN 2 UHD
 http://skunkytv.live:80/play/live.php?mac=00:1A:79:5D:0F:E4&stream=281639&extension=ts&play_token=NGcAiPqF2D
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/INDIA_PAKISTAN/ten2.png", SPORTS - TEN 2 FHD
+#EXTINF:-1,tvg-logo="http://103.176.90.118/picons/logos/INDIA_PAKISTAN/ten2.png", SPORTS - TEN 2 FHD
 http://skunkytv.live:80/play/live.php?mac=00:1A:79:5D:0F:E4&stream=843534&extension=ts&play_token=Ovkmj1UAxF
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/TEN-3-HD.jpeg", SPORTS - TEN 3 UHD
+#EXTINF:-1,tvg-logo="http://103.176.90.118/picons-dino/logos/TEN-3-HD.jpeg", SPORTS - TEN 3 UHD
 http://skunkytv.live:80/play/live.php?mac=00:1A:79:5D:0F:E4&stream=281640&extension=ts&play_token=auEYNrRFPo
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/INDIA_PAKISTAN/Sony_Ten_3.png", SPORTS - TEN 3 FHD
+#EXTINF:-1,tvg-logo="http://103.176.90.118/picons/logos/INDIA_PAKISTAN/Sony_Ten_3.png", SPORTS - TEN 3 FHD
 http://skunkytv.live:80/play/live.php?mac=00:1A:79:5D:0F:E4&stream=843535&extension=ts&play_token=Iz4dKh0cwZ
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SONY-TEN-4.jpeg", SPORTS - TEN 4 FHD
+#EXTINF:-1,tvg-logo="http://103.176.90.118/picons/logos/SONY-TEN-4.jpeg", SPORTS - TEN 4 FHD
 http://skunkytv.live:80/play/live.php?mac=00:1A:79:5D:0F:E4&stream=843536&extension=ts&play_token=fiKkrhyzk6
+
 #EXTINF:-1, ##### INDIA ENGLISH #####
+
 http://skunkytv.live:80/play/live.php?mac=00:1A:79:5D:0F:E4&stream=281641&extension=ts&play_token=cL3q0SLx4F
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/AND_PRIVE_HD.png", ENG - AND PRIVE UHD
 http://skunkytv.live:80/play/live.php?mac=00:1A:79:5D:0F:E4&stream=281642&extension=ts&play_token=vRkwbpessW
@@ -5954,7 +5967,9 @@ http://skunkytv.live:80/play/live.php?mac=00:1A:79:5D:0F:E4&stream=843895&extens
 http://skunkytv.live:80/play/live.php?mac=00:1A:79:5D:0F:E4&stream=281667&extension=ts&play_token=IXorrGeY6W
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/zeecafe.png", ENG - ZEE CAFE UHD
 http://skunkytv.live:80/play/live.php?mac=00:1A:79:5D:0F:E4&stream=281669&extension=ts&play_token=rOBrKeZcrZ
+
 #EXTINF:-1, ##### BANGLA #####
+
 http://skunkytv.live:80/play/live.php?mac=00:1A:79:5D:0F:E4&stream=281670&extension=ts&play_token=d9HuFexE4t
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/atnbangla.png", BGL - ATN BANGLA
 http://skunkytv.live:80/play/live.php?mac=00:1A:79:5D:0F:E4&stream=767345&extension=ts&play_token=F0LMBeiwtJ
@@ -6058,7 +6073,9 @@ http://skunkytv.live:80/play/live.php?mac=00:1A:79:5D:0F:E4&stream=839378&extens
 http://skunkytv.live:80/play/live.php?mac=00:1A:79:5D:0F:E4&stream=839365&extension=ts&play_token=9PLcgEzdH3
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/RTV.png", BGL - RTV HD
 http://skunkytv.live:80/play/live.php?mac=00:1A:79:5D:0F:E4&stream=839367&extension=ts&play_token=UxQOHkt2Ik
+
 #EXTINF:-1, ##### PUNJABI #####
+
 http://skunkytv.live:80/play/live.php?mac=00:1A:79:5D:0F:E4&stream=281685&extension=ts&play_token=4xYfFKEcB5
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/RANGLA-.png", PJB - RANGLA
 http://skunkytv.live:80/play/live.php?mac=00:1A:79:5D:0F:E4&stream=281686&extension=ts&play_token=UwXcknGQIv
@@ -6152,7 +6169,9 @@ http://skunkytv.live:80/play/live.php?mac=00:1A:79:5D:0F:E4&stream=835174&extens
 http://skunkytv.live:80/play/live.php?mac=00:1A:79:5D:0F:E4&stream=281716&extension=ts&play_token=CG5Oc5CFNY
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SADA-TV.png", PJB - SADA TV
 http://skunkytv.live:80/play/live.php?mac=00:1A:79:5D:0F:E4&stream=860097&extension=ts&play_token=dy9uBlRmBG
+
 #EXTINF:-1, ##### GUJARATI #####
+
 http://skunkytv.live:80/play/live.php?mac=00:1A:79:5D:0F:E4&stream=281718&extension=ts&play_token=jFC8qV1WoU
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/GUJARATI.png", GJR - GUJARATI TV
 http://skunkytv.live:80/play/live.php?mac=00:1A:79:5D:0F:E4&stream=821943&extension=ts&play_token=UFVDRMwxpQ
@@ -6182,7 +6201,9 @@ http://skunkytv.live:80/play/live.php?mac=00:1A:79:5D:0F:E4&stream=281728&extens
 http://skunkytv.live:80/play/live.php?mac=00:1A:79:5D:0F:E4&stream=281726&extension=ts&play_token=ShfzVQPljB
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/VTV-NEWS.jpeg", GJR - VTV NEWS
 http://skunkytv.live:80/play/live.php?mac=00:1A:79:5D:0F:E4&stream=281729&extension=ts&play_token=PC4m6yk7XO
+
 #EXTINF:-1, ##### MALAYALAM #####
+
 http://skunkytv.live:80/play/live.php?mac=00:1A:79:5D:0F:E4&stream=281730&extension=ts&play_token=3anKk3Vv1u
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/AMRITHA-TV.jpeg", MLY - AMRITHA TV
 http://skunkytv.live:80/play/live.php?mac=00:1A:79:5D:0F:E4&stream=281731&extension=ts&play_token=55yOAl35c7
@@ -6260,7 +6281,9 @@ http://skunkytv.live:80/play/live.php?mac=00:1A:79:5D:0F:E4&stream=839814&extens
 http://skunkytv.live:80/play/live.php?mac=00:1A:79:5D:0F:E4&stream=839813&extension=ts&play_token=A6hu1r5GxV
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/wetv.png", MLY - WE TV
 http://skunkytv.live:80/play/live.php?mac=00:1A:79:5D:0F:E4&stream=281757&extension=ts&play_token=3JQPCQXtee
+
 #EXTINF:-1, ##### MARATHI #####
+
 http://skunkytv.live:80/play/live.php?mac=00:1A:79:5D:0F:E4&stream=281759&extension=ts&play_token=y8Alw7gX4i
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/ABP-MAJHA.png", MRT - ABP MAJHA
 http://skunkytv.live:80/play/live.php?mac=00:1A:79:5D:0F:E4&stream=1123620&extension=ts&play_token=IHhJwmqIuw
@@ -6298,7 +6321,9 @@ http://skunkytv.live:80/play/live.php?mac=00:1A:79:5D:0F:E4&stream=281769&extens
 http://skunkytv.live:80/play/live.php?mac=00:1A:79:5D:0F:E4&stream=281770&extension=ts&play_token=FPatTkBxo0
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ZEE-24-TAAS.jpg", MRT - ZEE 24 TAAS
 http://skunkytv.live:80/play/live.php?mac=00:1A:79:5D:0F:E4&stream=281771&extension=ts&play_token=xuoTPRrwK6
+
 #EXTINF:-1, ##### TELUGU #####
+
 http://skunkytv.live:80/play/live.php?mac=00:1A:79:5D:0F:E4&stream=281772&extension=ts&play_token=6coX6Uyu46
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/BHAKTI-TV.jpg", TLG - BHAKTI TV
 http://skunkytv.live:80/play/live.php?mac=00:1A:79:5D:0F:E4&stream=281773&extension=ts&play_token=rlD8oml2Ty
@@ -6376,7 +6401,9 @@ http://skunkytv.live:80/play/live.php?mac=00:1A:79:5D:0F:E4&stream=281803&extens
 http://skunkytv.live:80/play/live.php?mac=00:1A:79:5D:0F:E4&stream=281780&extension=ts&play_token=SkqIqUKQzn
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/VANITHA-TV.jpg", TLG - VANITHA TV
 http://skunkytv.live:80/play/live.php?mac=00:1A:79:5D:0F:E4&stream=281801&extension=ts&play_token=62qIujyW0d
+
 #EXTINF:-1, ##### KANNADA #####
+
 http://skunkytv.live:80/play/live.php?mac=00:1A:79:5D:0F:E4&stream=281804&extension=ts&play_token=dtqixNjqDA
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/COLORS-KANNADA-HD.jpg", KAN - COLORS KANNADA UHD
 http://skunkytv.live:80/play/live.php?mac=00:1A:79:5D:0F:E4&stream=281805&extension=ts&play_token=LBCrx2twcj
