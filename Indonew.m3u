@@ -298,6 +298,246 @@ http://203.81.84.130/hls/mwd_family/index.m3u8
 @@@@@@@@@#####@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 
+#EXTM3U
+
+#EXTINF:-1 tvg-id="AstroPremierLeague" tvg-name="EPL 1" tvg-logo="https://www.dropbox.com/scl/fi/mu10jq5cttpmfkz7a3979/Photo-Aug-13-2025-6-40-05-PM.png?rlkey=z8zmmuzm0cj1zjg1so7dtd4pm&st=ujbh62u1&dl=1" group-title="live",SKY Soprt
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
+http://bananatv.org:25461/aba706633/aba706633/345.ts
+
+#EXTINF:-1 tvg-id="AstroPremierLeague2" tvg-name="EPL 2" tvg-logo="https://www.dropbox.com/scl/fi/hy5mzo1razcmz6jebbtnn/Photo-Aug-13-2025-6-46-49-PM.png?rlkey=fph4kuky9kpdizj8hohe4iriu&st=51nc0ckb&dl=1" group-title="live",MAX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
+http://bananatv.org:25461/aba706633/aba706633/346.ts
+
+#EXTINF:-1 tvg-id="TV1" tvg-name="EPL 3" tvg-logo="https://www.dropbox.com/scl/fi/lyltq60hblvh9jz2jj65y/Photo-Aug-13-2025-7-00-02-PM.png?rlkey=u1ix29gkcziwwzi10oy3m0wfy&st=ka9ax9vg&dl=1" group-title="live",SONY 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
+http://bananatv.org:25461/aba706633/aba706633/643.ts
+
+#EXTINF:-1 tvg-id="AstroFootball" tvg-name="EPL 4" tvg-logo="https://www.dropbox.com/scl/fi/wyoaa2mw57fxyixr1iixg/Photo-Aug-13-2025-9-10-35-PM.png?rlkey=a4q2gjarhisvxaebw0bgny6wv&st=btf3txfv&dl=1" group-title="live",SKY Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
+http://bananatv.org:25461/aba706633/aba706633/23048.ts
+
+#EXTINF:-1 tvg-id="AstroPremierLeague3" tvg-name="EPL 5 HD" tvg-logo="https://www.dropbox.com/scl/fi/neum24pn83t2d25c880hf/Photo-Aug-13-2025-10-09-29-PM.png?rlkey=657ehuko0swx2kuno9ehfarp4&st=yqsrle4s&dl=1" group-title="live",MAX2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
+http://bananatv.org:25461/aba706633/aba706633/651.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="EPL 5 SD" tvg-logo="https://www.dropbox.com/scl/fi/l5ioqlh0ag00yc40sxaua/Photo-Aug-13-2025-10-25-54-PM.png?rlkey=gundpg1w5tsn70v7vaz031rec&st=r4t60lq6&dl=1" group-title="live",SONYP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
+http://bananatv.org:25461/aba706633/aba706633/117.ts
+
+#EXTINF:-1 tvg-id="TV1" tvg-name="EPL 6" tvg-logo="https://www.dropbox.com/scl/fi/jmja06zeat8u1mz4i3l66/Photo-Aug-30-2025-10-04-21-PM.png?rlkey=vpfbl0je91zmwopzs1az7b79i&st=jvazk4nu&dl=1" group-title="live",SONYQ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
+http://bananatv.org:25461/aba706633/aba706633/555.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="EPL 7" tvg-logo="https://www.dropbox.com/scl/fi/1m133k6y5kuwohlglxben/Photo-Aug-30-2025-10-52-23-PM.png?rlkey=j3wh5elxwh1uc56ythlvfhk9b&st=eno4btn9&dl=1" group-title="live",A SPORTS 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
+http://bananatv.org:25461/aba706633/aba706633/605.ts
+
+#EXTINF:-1 tvg-id="AstroFootball" tvg-name="SerieA 1" tvg-logo="https://www.dropbox.com/scl/fi/nigkl44dgblqdo003bpsf/Photo-Jan-22-2025-4-49-41-PM.png?rlkey=tzd7tw9ce9y7qg1htl1sm329w&st=bzd5ynzh&dl=1" group-title="live",SerieA 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
+http://bananatv.org:25461/aba706633/aba706633/35606.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SerieA 2" tvg-logo="https://www.dropbox.com/scl/fi/nigkl44dgblqdo003bpsf/Photo-Jan-22-2025-4-49-41-PM.png?rlkey=tzd7tw9ce9y7qg1htl1sm329w&st=bzd5ynzh&dl=1" group-title="live",SerieA 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
+http://bananatv.org:25461/aba706633/aba706633/35607.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Bein 1 ASIA" tvg-logo="https://www.dropbox.com/scl/fi/svqgrn97gvjm8n4oznfsw/Photo-10-5-24-3-45-11-PM.jpg?rlkey=as2uns31306ql93m4wn9mzctt&dl=1" group-title="live",Bein 1 ASIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
+http://bananatv.org:25461/aba706633/aba706633/17790.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Bein 2 ASIA" tvg-logo="https://www.dropbox.com/scl/fi/9l8olvq4ljf09qnwhtjsv/MOVIES_20231105_231023_0000.jpg?rlkey=j6lm87n7072d02i7zi5i8d7z4&dl=1" group-title="live",Bein 2 ASIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
+http://bananatv.org:25461/aba706633/aba706633/17791.ts
+
+#EXTINF:-1 tvg-id="beINSports3" tvg-name="Bein 3 ASIA" tvg-logo="https://www.dropbox.com/scl/fi/fq43cs4vxprb0p3bsv6li/20231030_170001_0000.jpg?rlkey=63i068xl4v0pgcrtzvsyd5163&dl=1" group-title="live",Bein 3 ASIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
+http://bananatv.org:25461/aba706633/aba706633/622.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Bundesliga 1" tvg-logo="https://www.dropbox.com/scl/fi/qtexwh2vfcs6dkakubap1/Photo-Oct-03-2025-9-58-28-PM.jpg?rlkey=hu8ffcjrsn8sc5vj11eyvqlsf&st=3eqcz9wp&dl=1" group-title="live",Bundesliga 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
+http://bananatv.org:25461/aba706633/aba706633/29818.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Event Sport 1" tvg-logo="https://www.dropbox.com/scl/fi/mxnio0g376ikffwv4pzvy/Photo-Dec-07-2024-10-25-30-PM.jpg?rlkey=ldi5n2ig2080glihxtmj57jtn&st=x2z0qyjj&dl=1" group-title="live",Event Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
+http://bananatv.org:25461/aba706633/aba706633/31301.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Event Sport 2" tvg-logo="https://www.dropbox.com/scl/fi/mxnio0g376ikffwv4pzvy/Photo-Dec-07-2024-10-25-30-PM.jpg?rlkey=ldi5n2ig2080glihxtmj57jtn&st=x2z0qyjj&dl=1" group-title="live",Event Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
+http://bananatv.org:25461/aba706633/aba706633/31302.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Event Sport 3" tvg-logo="https://www.dropbox.com/scl/fi/mxnio0g376ikffwv4pzvy/Photo-Dec-07-2024-10-25-30-PM.jpg?rlkey=ldi5n2ig2080glihxtmj57jtn&st=x2z0qyjj&dl=1" group-title="live",Event Sport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
+http://bananatv.org:25461/aba706633/aba706633/31303.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Event Sport 4" tvg-logo="https://www.dropbox.com/scl/fi/mxnio0g376ikffwv4pzvy/Photo-Dec-07-2024-10-25-30-PM.jpg?rlkey=ldi5n2ig2080glihxtmj57jtn&st=x2z0qyjj&dl=1" group-title="live",Event Sport 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
+http://bananatv.org:25461/aba706633/aba706633/31304.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Event Sport 5" tvg-logo="https://www.dropbox.com/scl/fi/mxnio0g376ikffwv4pzvy/Photo-Dec-07-2024-10-25-30-PM.jpg?rlkey=ldi5n2ig2080glihxtmj57jtn&st=x2z0qyjj&dl=1" group-title="live",Event Sport 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
+http://bananatv.org:25461/aba706633/aba706633/31305.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Event Sport 6" tvg-logo="https://www.dropbox.com/scl/fi/mxnio0g376ikffwv4pzvy/Photo-Dec-07-2024-10-25-30-PM.jpg?rlkey=ldi5n2ig2080glihxtmj57jtn&st=x2z0qyjj&dl=1" group-title="live",Event Sport 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
+http://bananatv.org:25461/aba706633/aba706633/31306.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Event Sport 7" tvg-logo="https://www.dropbox.com/scl/fi/mxnio0g376ikffwv4pzvy/Photo-Dec-07-2024-10-25-30-PM.jpg?rlkey=ldi5n2ig2080glihxtmj57jtn&st=x2z0qyjj&dl=1" group-title="live",Event Sport 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
+http://bananatv.org:25461/aba706633/aba706633/31311.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Event Sport 8" tvg-logo="https://www.dropbox.com/scl/fi/mxnio0g376ikffwv4pzvy/Photo-Dec-07-2024-10-25-30-PM.jpg?rlkey=ldi5n2ig2080glihxtmj57jtn&st=lt1shiwe&dl=1" group-title="live",Event Sport 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
+http://bananatv.org:25461/aba706633/aba706633/31839.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Event Sport 9" tvg-logo="https://www.dropbox.com/scl/fi/mxnio0g376ikffwv4pzvy/Photo-Dec-07-2024-10-25-30-PM.jpg?rlkey=ldi5n2ig2080glihxtmj57jtn&st=lt1shiwe&dl=1" group-title="live",Event Sport 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
+http://bananatv.org:25461/aba706633/aba706633/31840.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SportTV Plus" tvg-logo="" group-title="live",SportTV Plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
+http://bananatv.org:25461/aba706633/aba706633/7117.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Bein 1 USA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLuvWXhT-BehCJOoRRVPr3ZD9XXb_ZV0ioZ3aHo8EyeQSCd6O48A&s=10&ec=72940545" group-title="live",Bein 1 USA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
+http://bananatv.org:25461/aba706633/aba706633/14072.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Bein 2 USA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLuvWXhT-BehCJOoRRVPr3ZD9XXb_ZV0ioZ3aHo8EyeQSCd6O48A&s=10&ec=72940545" group-title="live",Bein 2 USA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
+http://bananatv.org:25461/aba706633/aba706633/14073.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Bein 3 USA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLuvWXhT-BehCJOoRRVPr3ZD9XXb_ZV0ioZ3aHo8EyeQSCd6O48A&s=10&ec=72940545" group-title="live",Bein 3 USA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
+http://bananatv.org:25461/aba706633/aba706633/6517.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Bein 3 Indonesia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu8RGf45Md1rI_Y86eJnISh-83zKXoLgaNSeyLXpYtcw&s" group-title="live",Bein 3 Indonesia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
+http://bananatv.org:25461/aba706633/aba706633/14074.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Bein 4 Indonesia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSslfh03r423WrQUamvVDFoqE-Sd3rPgTdhpz2d0hWRKQ&s" group-title="live",Bein 4 Indonesia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
+http://bananatv.org:25461/aba706633/aba706633/14070.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Bein 5 Indonesia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHHBcpy9GDS4c7PE_E7wswVOlefoAKinfR1t6_4i6rcQ&s" group-title="live",Bein 5 Indonesia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
+http://bananatv.org:25461/aba706633/aba706633/14071.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SSC Sport (Saudi League)" tvg-logo="https://i.vimeocdn.com/video/1742682656-dbbe56ab801dac61deef9234fb0bd8f595c6399ef44b7526869b97cb1e34479a-d_750x421.875?q=60" group-title="live",SSC Sport (Saudi League)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
+http://bananatv.org:25461/aba706633/aba706633/635.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SSC Sport 2" tvg-logo="https://www.dropbox.com/scl/fi/pssa01a2pb7wz4vi5y8os/2_20231024_182103_0000.jpg?rlkey=utvvkz7ih4esidx6wgm5pg7dk&dl=1" group-title="live",SSC Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
+http://bananatv.org:25461/aba706633/aba706633/4249.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SSC Sport 3" tvg-logo="https://www.dropbox.com/scl/fi/hs7cytmtiqqfiy5qhjx0n/2_20231024_182247_0000.jpg?rlkey=ihth5lzp0tg1jmr23ehsi0y4r&dl=1" group-title="live",SSC Sport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
+http://bananatv.org:25461/aba706633/aba706633/4250.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SSC Extra 1" tvg-logo="" group-title="live",SSC Extra 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
+http://bananatv.org:25461/aba706633/aba706633/27320.ts
+
 
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#@#@@@@#@@@@@@@@@@@@@@@@@@
 
