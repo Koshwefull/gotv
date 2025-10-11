@@ -258,7 +258,7 @@ http://bananatv.org:25461/aba706633/aba706633/1932.ts
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
-http://bananatv.org:25461/aba706633/aba706633/7.ts
+http://203.81.84.130/hls/mwd/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="MWD Variety" tvg-logo="https://www.dropbox.com/scl/fi/wblk0ep7dumsz9z1t88r5/Untitled-design_20231004_183932_0000.jpg?rlkey=1fj2ei54x61oztuexk7288wy7&dl=1" group-title="Free Channels (MM)",MWD Variety
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
@@ -288,6 +288,12 @@ http://203.81.84.130/hls/mwd_serie/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
 http://bananatv.org:25461/aba706633/aba706633/6549.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="MWD" tvg-logo="https://www.dropbox.com/scl/fi/11rx68p6hjy9h9k48uhnj/Untitled-design_20240125_163905_0000.jpg?rlkey=cjzihnqgjj531da0cp66hwon4&dl=1" group-title="Free Channels (MM)",MWD light
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
+http://203.81.84.130/hls/mwd_family/index.m3u8
 
 @@@@@@@@@#####@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
