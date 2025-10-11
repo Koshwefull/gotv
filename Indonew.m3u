@@ -120,175 +120,175 @@ https://raw.githubusercontent.com/Koshwefull/gotv/refs/heads/main/SnapTube%20All
 
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="မဟာဗောဓိ" tvg-logo="https://www.dropbox.com/scl/fi/avz4slmsli2sgcttoz9om/Untitled-design_20231012_132254_0000.jpg?rlkey=rerejl55791tptvifnu0ikuk5&dl=1" group-title="Free Channels (MM)",1မဟာဗောဓိ
+#EXTINF:-1 tvg-id="" tvg-name="မဟာဗောဓိ" tvg-logo="https://www.dropbox.com/scl/fi/avz4slmsli2sgcttoz9om/Untitled-design_20231012_132254_0000.jpg?rlkey=rerejl55791tptvifnu0ikuk5&dl=1" group-title="Free Channels",1မဟာဗောဓိ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
 http://bananatv.org:25461/aba706633/aba706633/12.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="BUDDHA" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaQIjWjMII-7A0lyi_Pwn63px6sim9aPwUGXEOQX=s900-c-k-c0x00ffffff-no-rj" group-title="Free Channels (MM)",2BUDDHA
+#EXTINF:-1 tvg-id="" tvg-name="BUDDHA" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaQIjWjMII-7A0lyi_Pwn63px6sim9aPwUGXEOQX=s900-c-k-c0x00ffffff-no-rj" group-title="Free Channels ",2BUDDHA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
 http://bananatv.org:25461/aba706633/aba706633/836.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="MRTV HD" tvg-logo="https://www.dropbox.com/scl/fi/bits5up5rzf1w8x2g0t49/20231004_192925_0000.jpg?rlkey=ux1mspv33u2cw7dbcnkye67be&dl=1" group-title="Free Channels (MM)",MRTV HD
+#EXTINF:-1 tvg-id="" tvg-name="MRTV HD" tvg-logo="https://www.dropbox.com/scl/fi/bits5up5rzf1w8x2g0t49/20231004_192925_0000.jpg?rlkey=ux1mspv33u2cw7dbcnkye67be&dl=1" group-title="Free Channels ",MRTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
 http://bananatv.org:25461/aba706633/aba706633/15.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="MRTV Entertainment" tvg-logo="https://www.dropbox.com/scl/fi/32u9ctpp8gi34vbwq8eic/Photo-May-23-2025-1-13-55-PM.jpg?rlkey=x2e83n92akucruito89hh62c1&st=tt6pmzog&dl=1" group-title="Free Channels (MM)",MRTV Entertainment
+#EXTINF:-1 tvg-id="" tvg-name="MRTV Entertainment" tvg-logo="https://www.dropbox.com/scl/fi/32u9ctpp8gi34vbwq8eic/Photo-May-23-2025-1-13-55-PM.jpg?rlkey=x2e83n92akucruito89hh62c1&st=tt6pmzog&dl=1" group-title="Free Channels ",MRTV Entertainment
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
 http://bananatv.org:25461/aba706633/aba706633/35609.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="MRTV-4" tvg-logo="https://www.dropbox.com/scl/fi/9p87vkvs80undv8egc6df/dd-g_20231204_182715_0000.jpg?rlkey=vrob2d478gri9q9ymc8ym1d1z&dl=1" group-title="Free Channels (MM)",MRTV-4
+#EXTINF:-1 tvg-id="" tvg-name="MRTV-4" tvg-logo="https://www.dropbox.com/scl/fi/9p87vkvs80undv8egc6df/dd-g_20231204_182715_0000.jpg?rlkey=vrob2d478gri9q9ymc8ym1d1z&dl=1" group-title="Free Channels ",MRTV-4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
 http://bananatv.org:25461/aba706633/aba706633/6559.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="MRTV-4 HD" tvg-logo="https://www.dropbox.com/scl/fi/gebboxqlfnw01xb3aje8a/HD_20231004_212955_0000.jpg?rlkey=4l12o3fh74sbufm5p4pjvs9fp&dl=1" group-title="Free Channels (MM)",MRTV-4 HD
+#EXTINF:-1 tvg-id="" tvg-name="MRTV-4 HD" tvg-logo="https://www.dropbox.com/scl/fi/gebboxqlfnw01xb3aje8a/HD_20231004_212955_0000.jpg?rlkey=4l12o3fh74sbufm5p4pjvs9fp&dl=1" group-title="Free Channels ",MRTV-4 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
 http://bananatv.org:25461/aba706633/aba706633/6.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Channel7" tvg-logo="https://www.dropbox.com/scl/fi/ub1d1vnemb6bo4yy1o2et/FB_IMG_1701691210488.jpg?rlkey=yt7jceoh02s2ku60y0hd3u1ld&dl=1" group-title="Free Channels (MM)",Channel7
+#EXTINF:-1 tvg-id="" tvg-name="Channel7" tvg-logo="https://www.dropbox.com/scl/fi/ub1d1vnemb6bo4yy1o2et/FB_IMG_1701691210488.jpg?rlkey=yt7jceoh02s2ku60y0hd3u1ld&dl=1" group-title="Free Channels ",Channel7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
 http://bananatv.org:25461/aba706633/aba706633/6560.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Channel7 HD" tvg-logo="https://www.dropbox.com/scl/fi/xoyy158jvhsjh7l254esq/20231218_144203_0000.jpg?rlkey=r30rglbd39cpd2f9sk4ykjid3&dl=1" group-title="Free Channels (MM)",Channel7 HD
+#EXTINF:-1 tvg-id="" tvg-name="Channel7 HD" tvg-logo="https://www.dropbox.com/scl/fi/xoyy158jvhsjh7l254esq/20231218_144203_0000.jpg?rlkey=r30rglbd39cpd2f9sk4ykjid3&dl=1" group-title="Free Channels ",Channel7 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
 http://bananatv.org:25461/aba706633/aba706633/4.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="MNTV" tvg-logo="https://www.dropbox.com/scl/fi/t3600ga5zyfdpaowkkr9j/20231205_175238_0000.jpg?rlkey=g75hqqstzb54s9t65s71p5rm8&dl=1" group-title="Free Channels (MM)",MNTV
+#EXTINF:-1 tvg-id="" tvg-name="MNTV" tvg-logo="https://www.dropbox.com/scl/fi/t3600ga5zyfdpaowkkr9j/20231205_175238_0000.jpg?rlkey=g75hqqstzb54s9t65s71p5rm8&dl=1" group-title="Free Channels ",MNTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
 http://bananatv.org:25461/aba706633/aba706633/48.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Channel 9" tvg-logo="https://www.dropbox.com/scl/fi/p60ob2ve97r6o2iwcxub4/dd-g_20231209_184131_0000.jpg?rlkey=1qeafutvqpxpjrdl0p8az0czx&dl=1" group-title="Free Channels (MM)",Channel 9
+#EXTINF:-1 tvg-id="" tvg-name="Channel 9" tvg-logo="https://www.dropbox.com/scl/fi/p60ob2ve97r6o2iwcxub4/dd-g_20231209_184131_0000.jpg?rlkey=1qeafutvqpxpjrdl0p8az0czx&dl=1" group-title="Free Channels ",Channel 9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
 http://bananatv.org:25461/aba706633/aba706633/18.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Channel K" tvg-logo="https://www.dropbox.com/scl/fi/mblrvp6ans4cwnltdmrvb/dd-g_20231204_182841_0000.jpg?rlkey=xw1orf9ms08pvzusirn0y5cl5&dl=1" group-title="Free Channels (MM)",Channel K
+#EXTINF:-1 tvg-id="" tvg-name="Channel K" tvg-logo="https://www.dropbox.com/scl/fi/mblrvp6ans4cwnltdmrvb/dd-g_20231204_182841_0000.jpg?rlkey=xw1orf9ms08pvzusirn0y5cl5&dl=1" group-title="Free Channels ",Channel K
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
 http://bananatv.org:25461/aba706633/aba706633/5.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="YTV" tvg-logo="https://www.dropbox.com/scl/fi/y4mo74ri27f2ncxusgbyb/dd-g_20231204_183856_0000.jpg?rlkey=xzluiukaj4uwisgk8n0lr7uq0&dl=1" group-title="Free Channels (MM)",YTV
+#EXTINF:-1 tvg-id="" tvg-name="YTV" tvg-logo="https://www.dropbox.com/scl/fi/y4mo74ri27f2ncxusgbyb/dd-g_20231204_183856_0000.jpg?rlkey=xzluiukaj4uwisgk8n0lr7uq0&dl=1" group-title="Free Channels ",YTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
 http://bananatv.org:25461/aba706633/aba706633/19.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Fortune TV HD" tvg-logo="https://www.dropbox.com/scl/fi/3n10pi42rs00lsj9mfztm/Untitled-design_20240216_223032_0000.jpg?rlkey=3ce66c99906cku8luzqynhkc6&dl=1" group-title="Free Channels (MM)",Fortune TV HD
+#EXTINF:-1 tvg-id="" tvg-name="Fortune TV HD" tvg-logo="https://www.dropbox.com/scl/fi/3n10pi42rs00lsj9mfztm/Untitled-design_20240216_223032_0000.jpg?rlkey=3ce66c99906cku8luzqynhkc6&dl=1" group-title="Free Channels ",Fortune TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
 http://bananatv.org:25461/aba706633/aba706633/31499.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Fortune TV" tvg-logo="https://www.dropbox.com/scl/fi/3n10pi42rs00lsj9mfztm/Untitled-design_20240216_223032_0000.jpg?rlkey=3ce66c99906cku8luzqynhkc6&dl=1" group-title="Free Channels (MM)",Fortune TV
+#EXTINF:-1 tvg-id="" tvg-name="Fortune TV" tvg-logo="https://www.dropbox.com/scl/fi/3n10pi42rs00lsj9mfztm/Untitled-design_20240216_223032_0000.jpg?rlkey=3ce66c99906cku8luzqynhkc6&dl=1" group-title="Free Channels ",Fortune TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
 http://bananatv.org:25461/aba706633/aba706633/17.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Mahar HD" tvg-logo="https://www.dropbox.com/scl/fi/4rmyng80e7sc5o3nq0o7x/20231216_194604_0000.jpg?rlkey=6cva4cbkb1uzi67lb6mlakilm&dl=1" group-title="Free Channels (MM)",Mahar HD
+#EXTINF:-1 tvg-id="" tvg-name="Mahar HD" tvg-logo="https://www.dropbox.com/scl/fi/4rmyng80e7sc5o3nq0o7x/20231216_194604_0000.jpg?rlkey=6cva4cbkb1uzi67lb6mlakilm&dl=1" group-title="Free Channels ",Mahar HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
 http://bananatv.org:25461/aba706633/aba706633/3.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Mahar Movies HD" tvg-logo="https://www.dropbox.com/scl/fi/4rmyng80e7sc5o3nq0o7x/20231216_194604_0000.jpg?rlkey=6cva4cbkb1uzi67lb6mlakilm&dl=1" group-title="Free Channels (MM)",Mahar Movies HD
+#EXTINF:-1 tvg-id="" tvg-name="Mahar Movies HD" tvg-logo="https://www.dropbox.com/scl/fi/4rmyng80e7sc5o3nq0o7x/20231216_194604_0000.jpg?rlkey=6cva4cbkb1uzi67lb6mlakilm&dl=1" group-title="Free Channels ",Mahar Movies HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
 http://bananatv.org:25461/aba706633/aba706633/37359.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="5 Plus" tvg-logo="https://www.dropbox.com/scl/fi/7z4h7mas50f3ynangfznc/dd-g_20231205_175939_0000.jpg?rlkey=i0x563qw8c0l26ziblem7q9fv&dl=1" group-title="Free Channels (MM)",5 Plus
+#EXTINF:-1 tvg-id="" tvg-name="5 Plus" tvg-logo="https://www.dropbox.com/scl/fi/7z4h7mas50f3ynangfznc/dd-g_20231205_175939_0000.jpg?rlkey=i0x563qw8c0l26ziblem7q9fv&dl=1" group-title="Free Channels ",5 Plus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
 http://bananatv.org:25461/aba706633/aba706633/13.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="MITV" tvg-logo="https://www.dropbox.com/scl/fi/svt0a2kr6jbyq9fzftsym/dd-g_20231209_183301_0000.jpg?rlkey=lfx952lpzei04cveo1lplv5sp&dl=1" group-title="Free Channels (MM)",MITV
+#EXTINF:-1 tvg-id="" tvg-name="MITV" tvg-logo="https://www.dropbox.com/scl/fi/svt0a2kr6jbyq9fzftsym/dd-g_20231209_183301_0000.jpg?rlkey=lfx952lpzei04cveo1lplv5sp&dl=1" group-title="Free Channels ",MITV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
 http://bananatv.org:25461/aba706633/aba706633/25.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="MRTV Parliament" tvg-logo="https://www.dropbox.com/scl/fi/bd25gg663k585de10l0vg/HD_20231004_215213_0000.jpg?rlkey=36zguo7js4aao86t952s7b0cw&dl=1" group-title="Free Channels (MM)",MRTV Parliament
+#EXTINF:-1 tvg-id="" tvg-name="MRTV Parliament" tvg-logo="https://www.dropbox.com/scl/fi/bd25gg663k585de10l0vg/HD_20231004_215213_0000.jpg?rlkey=36zguo7js4aao86t952s7b0cw&dl=1" group-title="Free Channels ",MRTV Parliament
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
 http://bananatv.org:25461/aba706633/aba706633/1932.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="MWD" tvg-logo="https://www.dropbox.com/scl/fi/11rx68p6hjy9h9k48uhnj/Untitled-design_20240125_163905_0000.jpg?rlkey=cjzihnqgjj531da0cp66hwon4&dl=1" group-title="Free Channels (MM)",MWD
+#EXTINF:-1 tvg-id="" tvg-name="MWD" tvg-logo="https://www.dropbox.com/scl/fi/11rx68p6hjy9h9k48uhnj/Untitled-design_20240125_163905_0000.jpg?rlkey=cjzihnqgjj531da0cp66hwon4&dl=1" group-title="Free Channels ",MWD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
 http://203.81.84.130/hls/mwd/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MWD Variety" tvg-logo="https://www.dropbox.com/scl/fi/wblk0ep7dumsz9z1t88r5/Untitled-design_20231004_183932_0000.jpg?rlkey=1fj2ei54x61oztuexk7288wy7&dl=1" group-title="Free Channels (MM)",MWD Variety
+#EXTINF:-1 tvg-id="" tvg-name="MWD Variety" tvg-logo="https://www.dropbox.com/scl/fi/wblk0ep7dumsz9z1t88r5/Untitled-design_20231004_183932_0000.jpg?rlkey=1fj2ei54x61oztuexk7288wy7&dl=1" group-title="Free Channels ",MWD Variety
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
 http://203.81.84.130/hls/mwd_variety/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Golden Land" tvg-logo="https://www.dropbox.com/scl/fi/4rayl0f5i5h3hgpdwn18m/Untitled-design_20231004_185716_0000.jpg?rlkey=9e5klu5sqo1tt87t645e5w77k&dl=1" group-title="Free Channels (MM)",Golden Land
+#EXTINF:-1 tvg-id="" tvg-name="Golden Land" tvg-logo="https://www.dropbox.com/scl/fi/4rayl0f5i5h3hgpdwn18m/Untitled-design_20231004_185716_0000.jpg?rlkey=9e5klu5sqo1tt87t645e5w77k&dl=1" group-title="Free Channels ",Golden Land
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
 http://203.81.84.130/hls/mwd_document/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TVM" tvg-logo="https://www.dropbox.com/scl/fi/pk1bu7nkj7fu796x7quu0/dd-g_20231209_183043_0000.jpg?rlkey=nr4ssnxdnkwgkyhlotruuoqdy&dl=1" group-title="Free Channels (MM)",TVM
+#EXTINF:-1 tvg-id="" tvg-name="TVM" tvg-logo="https://www.dropbox.com/scl/fi/pk1bu7nkj7fu796x7quu0/dd-g_20231209_183043_0000.jpg?rlkey=nr4ssnxdnkwgkyhlotruuoqdy&dl=1" group-title="Free Channels ",TVM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
 http://203.81.84.130/hls/mwd_serie/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MM Movies 3" tvg-logo="https://www.dropbox.com/scl/fi/1sjn4a78z8f5j1owpbhn1/20231209_163817_0000.png?rlkey=q54c3vaofqzjpf6ttw5185zxy&dl=1" group-title="Free Channels (MM)",MM Movies 3
+#EXTINF:-1 tvg-id="" tvg-name="MM Movies 3" tvg-logo="https://www.dropbox.com/scl/fi/1sjn4a78z8f5j1owpbhn1/20231209_163817_0000.png?rlkey=q54c3vaofqzjpf6ttw5185zxy&dl=1" group-title="Free Channels ",MM Movies 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
 http://bananatv.org:25461/aba706633/aba706633/6549.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="MWD" tvg-logo="https://www.dropbox.com/scl/fi/11rx68p6hjy9h9k48uhnj/Untitled-design_20240125_163905_0000.jpg?rlkey=cjzihnqgjj531da0cp66hwon4&dl=1" group-title="Free Channels (MM)",MWD light
+#EXTINF:-1 tvg-id="" tvg-name="MWD" tvg-logo="https://www.dropbox.com/scl/fi/11rx68p6hjy9h9k48uhnj/Untitled-design_20240125_163905_0000.jpg?rlkey=cjzihnqgjj531da0cp66hwon4&dl=1" group-title="Free Channels ",MWD light
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
