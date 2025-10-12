@@ -156,14 +156,14 @@ https://aps12.playlist.ttvnw.net/v1/playlist/CrcGX0IcnnbxFHsjZs4gLG3zCJoL09qrk98
 #KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
 https://aps11.playlist.ttvnw.net/v1/playlist/CqUGbMCNi2lT4T1iG23kw-9QryGExOUrY1Psn5UmO_2Psu38aLlfQvcNLVOhnPBIc06A3xvhNWyiMboUFxg_wQnZFrLHltJu7n_mjAk3ucebZ3P1-gtGRKH_h9ruttAW16sCSjoE_Hp6TsS6IlLm9g83bmRUta25eFedyjdNuRy4TDpdRzhrtJMHEq_WxGCoaOBZlEbakqpqLcBJ6Hi1d6eCBb-1y3u7iEGVyME1IV5jHPHtvpTMGxtkMaWwXTFU5RLASRBO2XhbXyEU8rz_zwSbMo_zpFYJiv5BO2YB98tIlEM26UCPPk7CwyDefX0NX0C04z2X1ouJRXf85M2LY8rqIOc3siKUmFVTxbqUZV2T-ovH9wEcECSWcO3zeYwu7RdBYAOzF9V_gTl8m6BHnQ7taBnmHKVJQjewTskJULhxA9rdcIQzbFyf5yfYYJ8pD3ZnL1zVsiTJMT_eyRY7RGQzkCCAzxgDUc9Uw_fwyvgysuhzuO31lisHn1L0xiVcDsZjCyzQzb9NclgoUa2B5lW4PKWgV05APR_7yRHUsP5YzJDlv9xdPA2zqSzGCNZJILwEPcqjLW4d6cWzd6ENbE1oxWuho3q0QMS_k3w79vlNv2ACJlTp6im_VGV0LnIV30RtPO4jBCPWxGSIseKBMXHO1aLN-l2-PfL2gaoB-X-i8MLoNHLUw0zpEuRtYTtkuEHYh9bYWmW7fLFfE0EiOX5tG8corI-Nz2_AqpCC8yQXiUdHkNWmdyE15MAYxKkn_8M-6M-0VTm0KS3WQKQR3YTC5TwTHHOHaQuYA3osFWuTDZAHG_3CrrbOQODA60YbjBL1N1Sl2s0js5FzAHVIvUrT16tnMRNRrv1UL7JVL-KXyiQEjWioSe9lxnK0XKIfHuUBa32--JhWu-BV9D5tgiyS8KpPGEN4oyCEeIIx1QCZ7Cz2FjXUuY3G6S6U7gPgV9CIjXDhMikkaN7OOzq93OA-TFwzql4o5RVxON-xR9CWY2BOXyiWaQVlorgh53R0dmd3PbOzUqtYfISMdF4MpHo28aZogHaT5AyDhVNIRKO780aCx2a3ixoMPhAGsRrszNs0wEVPIAEqCXVzLXdlc3QtMjC5DQ.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MRTV Entertainment" tvg-logo="https://www.dropbox.com/scl/fi/32u9ctpp8gi34vbwq8eic/Photo-May-23-2025-1-13-55-PM.jpg?rlkey=x2e83n92akucruito89hh62c1&st=tt6pmzog&dl=1" group-title="Free Channels ",MRTV Entertainment
+#EXTINF:-1 tvg-id="" tvg-name="MRTV Parliament" tvg-logo="https://www.dropbox.com/scl/fi/bd25gg663k585de10l0vg/HD_20231004_215213_0000.jpg?rlkey=36zguo7js4aao86t952s7b0cw&dl=1" group-title="Free Channels ",MRTV Entertainment
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
 
 
-#EXTINF:-1 tvg-id="" tvg-name="MRTV fame" tvg-logo="https://www.dropbox.com/scl/fi/32u9ctpp8gi34vbwq8eic/Photo-May-23-2025-1-13-55-PM.jpg?rlkey=x2e83n92akucruito89hh62c1&st=tt6pmzog&dl=1" group-title="Free Channels ",MRTV Farmers 
+#EXTINF:-1 tvg-id="" tvg-name="MRTV Parliament" tvg-logo="https://www.dropbox.com/scl/fi/bd25gg663k585de10l0vg/HD_20231004_215213_0000.jpg?rlkey=36zguo7js4aao86t952s7b0cw&dl=1" group-title="Free Channels ",MRTV Parliament
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
