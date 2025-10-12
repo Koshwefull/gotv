@@ -162,11 +162,13 @@ https://aps11.playlist.ttvnw.net/v1/playlist/CqUGbMCNi2lT4T1iG23kw-9QryGExOUrY1P
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
 
-#EXTINF:-1 tvg-id="" tvg-name="MRTV fame" tvg-logo="https://www.dropbox.com/scl/fi/32u9ctpp8gi34vbwq8eic/Photo-May-23-2025-1-13-55-PM.jpg?rlkey=x2e83n92akucruito89hh62c1&st=tt6pmzog&dl=1" group-title="Free Channels ",MRTV Fame
+
+#EXTINF:-1 tvg-id="" tvg-name="MRTV fame" tvg-logo="https://www.dropbox.com/scl/fi/32u9ctpp8gi34vbwq8eic/Photo-May-23-2025-1-13-55-PM.jpg?rlkey=x2e83n92akucruito89hh62c1&st=tt6pmzog&dl=1" group-title="Free Channels ",MRTV Farmers 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
+https://aps12.playlist.ttvnw.net/v1/playlist/CqUGU1a6b2LMukgjTwGwBrY3_XrpLxNTl3hYT7LCKzgPg7sarVFGGCRs0dwIcv1aLCg0Dsjt-Y1_WnEKzZ1fYMYCtmOLKK8TjsGGAZxTpYOAIe1bZI7o2wkrwGLC0Fpt4vaejkn_DBn1YMolnTFDpgqZ6Dt19LJfKK-Hv4thD7Tvv5cEOOWFql62ktSIO1w2gkC6ULVSS_Oj14dtUjyC1pokBvwfS4rpahdapHCUMIhg7fbBpdmAyedCaQyc32DK0Uv53CjMVBQjbp59fySathVTrW3sTCDDBdIeZ1oHq0qS7BI96skw7JynV9F1v6A0nL9icfe_C8GEh8nrvBbu4KZVWQbgjU5n0NDY6wHFKvKQJQRVSmNvIDFI4Ap_YwzXD_FntdyO5v_3amcGgOxQSlYRozFXxiYyFfvpeapKvQuxRf2p2HQp4OfonGE4qiROw4X3beG4KbZQOrdJpMVoXnAhixGvfnZ1oV8ELDPVbTzFBTJwj0KBZE7LD3GIno12SnPVUGEbzeCs5cCb2utTav_kyxTaWHZtMLRSch9N8OyzHeeiouZFT3gMKr0JjAuEd6fBCBELWSJSpjT7Tc6RR9-rdU2lAccEqT2eZVmyJIlczjLDc2gU2OZqPUbAVPT7BjEUry49G2mNS8sGwA-Ht4vnxMNOm26dnVsMKCzm_wIvkdpu_I7ejeTXfRm3F0YIzQv5EoKc8dIpzqpc-t042e4KV4euVQ-qwX-DRkx4Ew1zq0oO8VSa2hTSy8hAhyJEQdec0yKdcI7FV0Q4eRGKeWIzWFPDI6TN0tDpQ8A4cKodDj5YuXP5LPgo-PmG2IfAlMLRFH2qXX3HasqTSS91pb1nunRtLWS7g-gKCovRIKs3yUFbOBPYNp3nRlszRJY4plVBG0aMr1YzPZz508zS1jb02wDhl22SUxXIkMC0xMq-N67iCXZllv75D107gOBxbk_aDk7QGTGgU8e4Dii8McW0DtqLyoDwyU8FgXeYCXr1CNsEO5pCBIyCcgQIhfSwgm7Y5LCmRsJenaPX7MVm1jJwkD1hTXfUrCkPbJ9wdPhy6Nk7lzVHIBoMPZhkRRN281o7hnjsIAEqCXVzLXdlc3QtMjC5DQ.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="MRTV-4" tvg-logo="https://www.dropbox.com/scl/fi/9p87vkvs80undv8egc6df/dd-g_20231204_182715_0000.jpg?rlkey=vrob2d478gri9q9ymc8ym1d1z&dl=1" group-title="Free Channels ",MRTV-4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
