@@ -280,7 +280,7 @@ https://aps11.playlist.ttvnw.net/v1/playlist/CqUGci-LqYTqJgG3Nd60nnyJKfKH_DKxMG0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
-http://203.81.84.130/hls/mwd/index.m3u8
+http://203.81mpdex.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="MWD Variety" tvg-logo="https://www.dropbox.com/scl/fi/wblk0ep7dumsz9z1t88r5/Untitled-design_20231004_183932_0000.jpg?rlkey=1fj2ei54x61oztuexk7288wy7&dl=1" group-title="Free Channels ",MWD Variety
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
@@ -329,6 +329,13 @@ http://203.81.84.130/hls/mwd_family/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
 http://bananatv.org:25461/aba706633/aba706633/345.ts
 
+#EXTINF:-1 tvg-id="AstroPremierLeague" tvg-name="EPL 1" tvg-logo="https://www.dropbox.com/scl/fi/mu10jq5cttpmfkz7a3979/Photo-Aug-13-2025-6-40-05-PM.png?rlkey=z8zmmuzm0cj1zjg1so7dtd4pm&st=ujbh62u1&dl=1" group-title="live",MONO MAX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
+http://filex.tv:8080/live/Home329/Sohailhome/302733.ts
+
 #EXTINF:-1 tvg-id="AstroPremierLeague2" tvg-name="EPL 2" tvg-logo="https://www.dropbox.com/scl/fi/hy5mzo1razcmz6jebbtnn/Photo-Aug-13-2025-6-46-49-PM.png?rlkey=fph4kuky9kpdizj8hohe4iriu&st=51nc0ckb&dl=1" group-title="live",MAX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -357,8 +364,7 @@ http://bananatv.org:25461/aba706633/aba706633/23048.ts
 #KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
 http://bananatv.org:25461/aba706633/aba706633/651.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="EPL 5 SD" tvg-logo="https://www.dropbox.com/scl/fi/l5ioqlh0ag00yc40sxaua/Photo-Aug-13-2025-10-25-54-PM.png?rlkey=gundpg1w5tsn70v7vaz031rec&st=r4t60lq6&dl=1" group-title="live",SONYP
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#EXTINF:-1 tvg-id="" tvg-name="EPL 5 SD" tvg-logo="https://www.dropbox.com/scl/fi/l5ioqlh0ag00yc40sxaua/Photo-Aug-13-2025-10-25-54-PM.png?rlkey=gundpg1w5tsn70v7vaz031rec&st=r4t60lq6&dl=1" group-title="livgroup-titleXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
